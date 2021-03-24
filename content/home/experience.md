@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CEO
-    company: Lim Loan Shark Inc.
+    company: Lim Inc.
     company_url: ''
     location: New Zealand
     date_start: '2021-03-01'
