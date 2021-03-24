@@ -18,7 +18,7 @@ bio: My research interests include statistics and youth substance use
 
 # Interests to show in About widget
 interests:
-- Statistics
+- Biostatistics
 - Text mining
 - Youth substance use
 
@@ -68,8 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Carmen is a biostatistician and a PhD candidate at NCYSUR. Her current research focuses on the application of text mining on data obtained from social media platforms to investigate the latest trend and harms associated with cannabis vaping. Prior to this, she has collaborated on a WHO project where she uses cross-national surveys to study antecedent risk factors and outcomes of psychotic experiences and more recently, comorbidity between mental disorders. In 2017, she was awarded Chartered Statistician by the UK Royal Statistical Society and the D100 Young Chinese Leaders Award by the Hong Kong Dragon Foundation. Carmen is also currently the Vice President (Media & Communications) of the Statistical Society of Australia.  In her spare time, she enjoys tweeting and video-editing.  She has an MSc in Medical Statistics and holds a NHMRC Postgraduate Research Scholarship, UQ Research Training Stipend and Research Higher Degree Top-Up Scholarship.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
