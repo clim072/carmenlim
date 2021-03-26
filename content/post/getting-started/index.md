@@ -1,5 +1,5 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
+title: Media releases 
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
@@ -30,11 +30,13 @@ image:
 
 authors:
 - admin
-- 吳恩達
+
 
 tags:
-- Academic
-- 开源
+- Cannabis vaping
+- Content analysis
+- Addiction
+
 
 categories:
 - Demo
@@ -98,8 +100,3 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 [Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
