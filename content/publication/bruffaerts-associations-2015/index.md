@@ -6,25 +6,25 @@ title: 'The Associations Between Preexisting Mental Disorders and Subsequent Ons
 subtitle: ''
 summary: ''
 authors:
-- Ronny Bruffaerts
-- Koen Demyttenaere
-- Ronald C. Kessler
-- Hisateru Tachimori
-- Brendan Bunting
-- Chiyi Hu
-- Silvia Florescu
-- Josep Maria Haro
-- Carmen C.W. Lim
-- Viviane Kovess-Masfety
-- Daphna Levinson
-- Maria Elena Medina Mora
-- Marina Piazza
-- Patryk Piotrowski
-- Jose Posada-Villa
-- Mohammad Salih Khalaf
-- Margreet ten Have
-- Miguel Xavier
-- Kate M. Scott
+- R. Bruffaerts
+- K. Demyttenaere
+- R.C. Kessler
+- H. Tachimori
+- B. Bunting
+- C. Hu
+- S. Florescu
+- J.M Haro
+- C.C.W. Lim
+- V. Kovess-Masfety
+- D. Levinson
+- M.E. Medina Mora
+- M. Piazza
+- P. Piotrowski
+- J. Posada-Villa
+- M.S. Khalaf
+- M. ten Have
+- M. Xavier
+- K.M. Scott
 tags: []
 categories: []
 date: '2015-01-01'

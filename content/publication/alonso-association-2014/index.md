@@ -5,31 +5,31 @@ title: Association between mental disorders and subsequent adult onset asthma
 subtitle: ''
 summary: ''
 authors:
-- Jordi Alonso
-- Peter de Jonge
-- Carmen C.W. Lim
-- Sergio Aguilar-Gaxiola
-- Ronny Bruffaerts
-- Jose Miguel Caldas-de-Almeida
-- Zhaorui Liu
-- Siobhan O'Neill
-- Dan J. Stein
-- Maria Carmen Viana
-- Ali Obaid Al-Hamzawi
-- Matthias C. Angermeyer
-- Guilherme Borges
-- Marius Ciutan
-- Giovanni de Girolamo
-- Fabian Fiestas
-- Josep Maria Haro
-- Chiyi Hu
-- Ronald C. Kessler
-- Jean Pierre Lépine
-- Daphna Levinson
-- Yosikazu Nakamura
-- Jose Posada-Villa
-- Bogdan J. Wojtyniak
-- Kate M. Scott
+- J. Alonso
+- P. de Jonge
+- C.C.W. Lim
+- S. Aguilar-Gaxiola
+- R. Bruffaerts
+- J.M. Caldas-de-Almeida
+- Z. Liu
+- S. O'Neill
+- D.J. Stein
+- M.C. Viana
+- A.O. Al-Hamzawi
+- M.C. Angermeyer
+- G. Borges
+- M. Ciutan
+- G. de Girolamo
+- F. Fiestas
+- J.M. Haro
+- C. Hu
+- R.C. Kessler
+- J.P. Lépine
+- D. Levinson
+- Y. Nakamura
+- J. Posada-Villa
+- B.J. Wojtyniak
+- K.M. Scott
 tags: []
 categories: []
 date: '2014-12-01'

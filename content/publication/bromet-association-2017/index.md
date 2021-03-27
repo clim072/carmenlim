@@ -7,39 +7,38 @@ title: 'Association Between Psychotic Experiences and Subsequent Suicidal Though
 subtitle: ''
 summary: ''
 authors:
-- Evelyn J. Bromet
-- Matthew K. Nock
-- Sukanta Saha
-- Carmen C. W. Lim
-- Sergio Aguilar-Gaxiola
-- Ali Al-Hamzawi
-- Jordi Alonso
-- Guilherme Borges
-- Ronny Bruffaerts
-- Louisa Degenhardt
-- Giovanni de Girolamo
-- Peter de Jonge
-- Silvia Florescu
-- Oye Gureje
-- Josep M. Haro
-- Yanling He
-- Chiyi Hu
-- Elie G. Karam
-- Viviane Kovess-Masfety
-- Sing Lee
-- Jean-Pierre Lepine
-- Zeina Mneimneh
-- Fernando Navarro-Mateu
-- Akin Ojagbemi
-- José Posada-Villa
-- Nancy A. Sampson
-- Kate M. Scott
-- Juan C. Stagnaro
-- Maria C. Viana
-- Miguel Xavier
-- Ronald C. Kessler
-- John J. McGrath
-- for the World Health Organization World Mental Health Survey Collaborators
+- E.J. Bromet
+- M.K. Nock
+- S. Saha
+- C.C.W. Lim
+- S. Aguilar-Gaxiola
+- A.O Al-Hamzawi
+- J. Alonso
+- G. Borges
+- R. Bruffaerts
+- L. Degenhardt
+- G. de Girolamo
+- P. de Jonge
+- S. Florescu
+- O. Gureje
+- J.M. Haro
+- Y. He
+- C. Hu
+- E.G. Karam
+- V. Kovess-Masfety
+- S. Lee
+- J.P Lepine
+- Z. Mneimneh
+- F. Navarro-Mateu
+- A. Ojagbemi
+- J. Posada-Villa
+- N.A. Sampson
+- K.M. Scott
+- J.C. Stagnaro
+- M.C. Viana
+- M.Xavier
+- R.C. Kessler
+- J.J. McGrath
 tags: []
 categories: []
 date: '2017-11-01'

@@ -6,35 +6,35 @@ title: 'The association between psychotic experiences and health-related quality
 subtitle: ''
 summary: ''
 authors:
-- Jordi Alonso
-- Sukanta Saha
-- Carmen C.W. Lim
-- Sergio Aguilar-Gaxiola
-- Ali Al-Hamzawi
-- Corina Benjet
-- Evelyn J. Bromet
-- Louisa Degenhardt
-- Giovanni de Girolamo
-- Oluyomi Esan
-- Silvia Florescu
-- Oye Gureje
-- Josep M. Haro
-- Chiyi Hu
-- Elie G. Karam
-- Georges Karam
-- Viviane Kovess-Masfety
-- Jean-Pierre Lepine
-- Sing Lee
-- Zeina Mneimneh
-- Fernando Navarro-Mateu
-- Jose Posada-Villa
-- Nancy A. Sampson
-- Kate M. Scott
-- Juan Carlos Stagnaro
-- Margreet ten Have
-- Maria Carmen Viana
-- Ronald C. Kessler
-- John J. McGrath
+- J. Alonso
+- S. Saha
+- C.C.W. Lim
+- S. Aguilar-Gaxiola
+- A.O. Al-Hamzawi
+- C. Benjet
+- E.J. Bromet
+- L. Degenhardt
+- G. de Girolamo
+- O. Esan
+- S. Florescu
+- O. Gureje
+- J.M. Haro
+- C. Hu
+- E.G. Karam
+- G. Karam
+- V. Kovess-Masfety
+- J.P. Lepine
+- S. Lee
+- Z. Mneimneh
+- F. Navarro-Mateu
+- J. Posada-Villa
+- N.A. Sampson
+- K.M. Scott
+- J.C Stagnaro
+- M. ten Have
+- M.C Viana
+- R.C. Kessler
+- J.J. McGrath
 tags: []
 categories: []
 date: '2018-11-01'
