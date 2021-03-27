@@ -5,30 +5,30 @@ title: Associations between DSM-IV mental disorders and subsequent onset of arth
 subtitle: ''
 summary: ''
 authors:
-- Sergio Aguilar-Gaxiola
-- Gustavo Loera
-- Estella M. Geraghty
-- Hendry Ton
-- Carmen C.W. Lim
-- Peter de Jonge
-- Ronald C. Kessler
-- José Posada-Villa
-- María Elena Medina-Mora
-- Chiyi Hu
-- Fabian Fiestas
-- Ronny Bruffaerts
-- Viviane Kovess-Masféty
-- Ali Obaid Al-Hamzawi
-- Daphna Levinson
-- Giovanni de Girolamo
-- Yoshibumi Nakane
-- Margreet ten Have
-- Siobhan O'Neill
-- Bogdan Wojtyniak
-- José Miguel Caldas de Almeida
-- Silvia Florescu
-- Josep Maria Haro
-- Kate M. Scott
+- S. Aguilar-Gaxiola
+- G. Loera
+- E.M. Geraghty
+- H. Ton
+- C.C.W. Lim
+- P. de Jonge
+- R.C. Kessler
+- J. Posada-Villa
+- M.E Medina-Mora
+- C Hu
+- F. Fiestas
+- R. Bruffaerts
+- V. Kovess-Masféty
+- A.O Al-Hamzawi
+- D. Levinson
+- G. de Girolamo
+- Y. Nakane
+- M. ten Have
+- S. O'Neill
+- B. Wojtyniak
+- J.M Caldas de Almeida
+- S. Florescu
+- J.M Haro
+- K.M. Scott
 tags: []
 categories: []
 date: '2016-03-01'
