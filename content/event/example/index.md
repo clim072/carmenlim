@@ -5,12 +5,6 @@ event: M1 Confirmation
 event_url: ''
 
 location: ZOOM
-#address:
-#  street: 450 Serra Mall
-#  city: Stanford
-#  region: CA
-#  postcode: '94305'
-#  country: United States
 
 summary:  Confirmation seminar
 abstract: "Cannabis is the most commonly-used illicit substance around the world. With more movements towards cannabis legalisation, we are witnessing an increase in the potency of cannabis, and a new method of administration -  vaping. In the U.S, cannabis vaping, especially in the adolescent population, has increased 2-3 fold in the past 2 years. Research is urgently needed to inform the existing harm reduction strategies in light of the recent legalisation of cannabis in Canberra, where opinions on cannabis legalization in other Australian states still remain divided. My research project will focus on cannabis vaping. Compared to other modes of administration, vaping is increasingly used to administer concentrates, which can be up to 30 times more potent than herbal cannabis. The implications of changes in cannabis delivery methods are understudied. Traditional methods, such as national drug surveys, do not provide timely data to identify drug trends because of significant time lag. Since vaping is an emerging phenomenon, little is known about how cannabis vaping is being portrayed on social media and how the content is being received by the public. 

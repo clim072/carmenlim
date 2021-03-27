@@ -1,6 +1,6 @@
 ---
-title: Media releases 
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: How cannabis vaping videos are being portrayed on the Internet?  
+subtitle: It finally gets published..      
 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
@@ -39,8 +39,8 @@ tags:
 
 
 categories:
-- Demo
-- 教程
+- PhD
+- Cannabis vaping
 ---
 
 ## Overview
