@@ -28,7 +28,7 @@ authors:
 - J. Scott
 tags: 
 - '"Statistical Analysis Plan"'
-- '"Randomized Controlled Trial"'
+- '"Clinical trials"'
 categories: []
 date: '2019-12-01'
 lastmod: 2021-03-27T12:28:20+10:00

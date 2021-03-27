@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Cross-national epidemiology of panic disorder and panic attacks in the world
-  mental health surveys: J textlessspan style=\"font-variant:small-caps;\"textgreateronge
-  et altextless/spantextgreater .'
+  mental health surveys'
 subtitle: ''
 summary: ''
 authors:

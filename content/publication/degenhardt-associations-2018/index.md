@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'The associations between psychotic experiences and substance use and substance
-  use disorders: findings from the World Health Organization World Mental Health surveys:
-  Psychotic experiences and substance use'
+  use disorders: findings from the World Health Organization World Mental Health surveys'
 subtitle: ''
 summary: ''
 authors:

@@ -16,7 +16,8 @@ authors:
 - C.C.W. Lim
 - L. Jones
 - D.L. Penn
-tags: []
+tags: 
+- '"Clinical trials"'
 categories: []
 date: '2020-09-01'
 lastmod: 2021-03-27T12:28:20+10:00
