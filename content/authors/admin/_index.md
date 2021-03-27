@@ -73,7 +73,7 @@ email: ""
 highlight_name: false
 ---
 
-Carmen is a statistician and a PhD candidate at [UQ](https://ncysur.centre.uq.edu.au/). Her current research focuses on the application of text mining on data obtained from the Internet (e.g cryptomarkets) to investigate the latest trend and harms associated with cannabis vaping. Prior to this, she has collaborated on a WHO project where she uses cross-national surveys to study antecedent risk factors and outcomes of psychotic experiences and more recently, comorbidity between mental disorders. In 2017, she was awarded Chartered Statistician by the UK Royal Statistical Society and the D100 Young Chinese Leaders Award by the Hong Kong Dragon Foundation. 
+Carmen is a Statistician and a PhD candidate at [UQ](https://ncysur.centre.uq.edu.au/). Her current research focuses on the application of text mining on data obtained from the Internet (e.g cryptomarkets) to investigate the latest trend and harms associated with cannabis vaping. Prior to this, she has collaborated on a [WHO project](https://www.hcp.med.harvard.edu/wmh/) where she uses cross-national surveys to study antecedent risk factors and outcomes of psychotic experiences and more recently, comorbidity between mental disorders. In 2017, she was awarded Chartered Statistician by the UK Royal Statistical Society and the D100 Young Chinese Leaders Award by the Hong Kong Dragon Foundation. 
 
 Carmen is currently the Vice President (Media & Communications) of the [Statistical Society of Australia](https://statsoc.org.au/).  In her spare time, she enjoys tweeting and video-editing.   
 
