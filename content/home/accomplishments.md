@@ -11,7 +11,7 @@ weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 #title: 'Accomplish&shy;ments'
-#title: 'Awards'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -34,11 +34,20 @@ item:
   url: ""
 - certificate_url:  
   date_end: "2022-12-31"
-  
   date_start: "2020-01-01"
   description: ""
   organization: The University of Queensland
   organization_url: https://scholarships.uq.edu.au/
   title: 'UQ HDR Living Stipend, Tuition Scholarship'
+  url: "" 
+- certificate_url:  
+  date_end: "2022-12-31"
+  date_start: "2020-01-01"
+  description: ""
+  organization: The University of Queensland
+  organization_url: https://scholarships.uq.edu.au/
+  title: 'NCYSUR Top-Up Scholarship'
   url: ""
+
+
 ---
