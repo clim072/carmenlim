@@ -6,31 +6,32 @@ title: 'Associations between DSM-IV mental disorders and subsequent heart diseas
 subtitle: ''
 summary: ''
 authors:
-- Kate M. Scott
-- Peter de Jonge
-- Jordi Alonso
-- Maria Carmen Viana
-- Zhaorui Liu
-- Siobhan O'Neill
-- Sergio Aguilar-Gaxiola
-- Ronny Bruffaerts
-- Jose Miguel Caldas-de-Almeida
-- Dan J. Stein
-- Giovanni de Girolamo
-- Silvia E. Florescu
-- Chiyi Hu
-- Nezar Ismet Taib
-- Jean-Pierre Lépine
-- Daphna Levinson
-- Herbert Matschinger
-- Maria Elena Medina-Mora
-- Marina Piazza
-- José A. Posada-Villa
-- Hidenori Uda
-- Bogdan J. Wojtyniak
-- Carmen C.W. Lim
-- Ronald C. Kessler
-tags: []
+- K.M. Scott
+- P. de Jonge
+- J. Alonso
+- M.C. Viana
+- Z. Liu
+- S. O'Neill
+- S. Aguilar-Gaxiola
+- R. Bruffaerts
+- J.M.C. de-Almeida
+- D.J. Stein
+- G. de Girolamo
+- S.E. Florescu
+- C. Hu
+- N.I. Taib
+- J.P. Lépine
+- D. Levinson
+- H. Matschinger
+- M.E. Medina-Mora
+- M. Piazza
+- J.A. Posada-Villa
+- H. Uda
+- B.J. Wojtyniak
+- C.C.W. Lim
+- R.C. Kessler
+tags: 
+- '"Mental disorders"'
 categories: []
 date: '2013-10-01'
 lastmod: 2021-03-27T12:28:15+10:00

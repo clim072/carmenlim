@@ -5,13 +5,14 @@ title: Agoraphobia
 subtitle: ''
 summary: ''
 authors:
-- Annelieke M. Roest
-- Peter de Jonge
-- Carmen C. W. Lim
-- Dan J. Stein
-- Maria Elena Medina-Mora
-- Kate M. Scott
-tags: []
+- A.M. Roest
+- P. de Jonge
+- C.C.W. Lim
+- D.J. Stein
+- M.E. Medina-Mora
+- K.M. Scott
+tags: 
+- '"Mental disorders"'
 categories: []
 date: '2018-01-01'
 lastmod: 2021-03-27T12:28:14+10:00

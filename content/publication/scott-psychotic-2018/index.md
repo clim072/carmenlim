@@ -5,12 +5,13 @@ title: Psychotic Experiences
 subtitle: ''
 summary: ''
 authors:
-- John J. McGrath
-- Sukanta Saha
-- Carmen C. W. Lim
-- Oye Gureje
-- Silvia Florescu
-tags: []
+- J.J. McGrath
+- S. Saha
+- C.C.W. Lim
+- O. Gureje
+- S. Florescu
+tags: 
+- '"Psychotic experiences"'
 categories: []
 date: '2018-01-01'
 lastmod: 2021-03-27T12:28:14+10:00

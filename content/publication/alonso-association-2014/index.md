@@ -30,7 +30,10 @@ authors:
 - J. Posada-Villa
 - B.J. Wojtyniak
 - K.M. Scott
-tags: []
+tags: 
+- '"Mental disorders"'
+- '"Comorbidity"'
+- '"Mental-physical comorbidity"'
 categories: []
 date: '2014-12-01'
 lastmod: 2021-03-27T12:28:15+10:00

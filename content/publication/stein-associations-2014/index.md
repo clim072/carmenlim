@@ -5,35 +5,36 @@ title: Associations between mental disorders and subsequent onset of hypertensio
 subtitle: ''
 summary: ''
 authors:
-- Dan J. Stein
-- Sergio Aguilar-Gaxiola
-- Jordi Alonso
-- Ronny Bruffaerts
-- Peter de Jonge
-- Zharoui Liu
-- Jose Miguel Caldas-de-Almeida
-- Siobhan O’Neill
-- Maria Carmen Viana
-- Ali Obaid Al-Hamzawi
-- Mattias C. Angermeyer
-- Corina Benjet
-- Ron de Graaf⁎
-- Finola Ferry
-- Viviane Kovess-Masfety
-- Daphna Levinson
-- Giovanni de Girolamo
-- Silvia Florescu
-- Chiyi Hu
-- Norito Kawakami
-- Josep Maria Haro
-- Marina Piazza
-- Jose Posada-Villa
-- Bogdan J. Wojtyniak⁎
-- Miguel Xavier
-- Carmen C.W. Lim
-- Ronald C. Kessler
-- Kate M. Scott
-tags: []
+- D.J. Stein
+- S. Aguilar-Gaxiola
+- J. Alonso
+- R. Bruffaerts
+- P. de Jonge
+- Z. Liu
+- J.M.C de-Almeida
+- S. O’Neill
+- M.C Viana
+- A.O. Al-Hamzawi
+- M.C. Angermeyer
+- C. Benjet
+- R. de Graaf
+- F. Ferry
+- V. Kovess-Masfety
+- D. Levinson
+- G. de Girolamo
+- S. Florescu
+- C. Hu
+- N. Kawakami
+- J.M Haro
+- M. Piazza
+- J. Posada-Villa
+- B.J. Wojtyniak⁎
+- M. Xavier
+- C.C.W. Lim
+- R.C. Kessler
+- K.M. Scott
+tags: 
+- '"Mental disorders"'
 categories: []
 date: '2014-03-01'
 lastmod: 2021-03-27T12:28:15+10:00

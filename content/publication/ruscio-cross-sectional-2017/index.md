@@ -1,47 +1,48 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Cross-sectional Comparison of the Epidemiology of textitDSM-5 Generalized Anxiety
+title: Cross-sectional Comparison of the Epidemiology of DSM-5 Generalized Anxiety
   Disorder Across the Globe
 subtitle: ''
 summary: ''
 authors:
-- Ayelet Meron Ruscio
-- Lauren S. Hallion
-- Carmen C. W. Lim
-- Sergio Aguilar-Gaxiola
-- Ali Al-Hamzawi
-- Jordi Alonso
-- Laura Helena Andrade
-- Guilherme Borges
-- Evelyn J. Bromet
-- Brendan Bunting
-- José Miguel Caldas de Almeida
-- Koen Demyttenaere
-- Silvia Florescu
-- Giovanni de Girolamo
-- Oye Gureje
-- Josep Maria Haro
-- Yanling He
-- Hristo Hinkov
-- Chiyi Hu
-- Peter de Jonge
-- Elie G. Karam
-- Sing Lee
-- Jean-Pierre Lepine
-- Daphna Levinson
-- Zeina Mneimneh
-- Fernando Navarro-Mateu
-- José Posada-Villa
-- Tim Slade
-- Dan J. Stein
-- Yolanda Torres
-- Hidenori Uda
-- Bogdan Wojtyniak
-- Ronald C. Kessler
-- Somnath Chatterji
-- Kate M. Scott
-tags: []
+- A.M. Ruscio
+- L.S. Hallion
+- C.C.W. Lim
+- S. Aguilar-Gaxiola
+- A.O. Al-Hamzawi
+- J. Alonso
+- L.H. Andrade
+- G. Borges
+- E.J. Bromet
+- B. Bunting
+- J.M.C. de Almeida
+- K. Demyttenaere
+- S. Florescu
+- G. de Girolamo
+- O. Gureje
+- J.M. Haro
+- Y. He
+- H. Hinkov
+- C. Hu
+- P. de Jonge
+- E.G. Karam
+- S. Lee
+- J.P. Lepine
+- D. Levinson
+- Z. Mneimneh
+- F. Navarro-Mateu
+- J. Posada-Villa
+- T. Slade
+- D.J. Stein
+- Y.a Torres
+- H. Uda
+- B. Wojtyniak
+- R.C. Kessler
+- S. Chatterji
+- K.M. Scott
+tags: 
+- '"Mental disorders"'
 categories: []
 date: '2017-05-01'
 lastmod: 2021-03-27T12:28:18+10:00

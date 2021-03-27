@@ -6,27 +6,28 @@ title: Associations between DSM-IV mental disorders and subsequent self-reported
 subtitle: ''
 summary: ''
 authors:
-- Siobhan O'Neill
-- Jose Posada-Villa
-- Maria Elena Medina-Mora
-- Ali Obaid Al-Hamzawi
-- Marina Piazza
-- Hisateru Tachimori
-- Chiyi Hu
-- Carmen Lim
-- Ronny Bruffaerts
-- Jean-Pierre Lépine
-- Herbert Matschinger
-- Giovanni de Girolamo
-- Peter de Jonge
-- Jordi Alonso
-- Jose Miguel Caldas-de-Almeida
-- Silvia Florescu
-- Andrzej Kiejna
-- Daphna Levinson
-- Ronald C. Kessler
-- Kate M. Scott
-tags: []
+- S. O'Neill
+- J. Posada-Villa
+- M.E. Medina-Mora
+- A.O. Al-Hamzawi
+- M. Piazza
+- H. Tachimori
+- C. Hu
+- C.C.W. Lim
+- R. Bruffaerts
+- J.P. Lépine
+- H. Matschinger
+- G. de Girolamo
+- P. de Jonge
+- J. Alonso
+- J.M. Caldas-de-Almeida
+- S. Florescu
+- A. Kiejna
+- D. Levinson
+- R.C. Kessler
+- K.M. Scott
+tags: 
+- '"Mental disorder"'
 categories: []
 date: '2014-03-01'
 lastmod: 2021-03-27T12:28:15+10:00

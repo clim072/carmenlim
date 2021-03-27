@@ -1,31 +1,31 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Associations Between Subjective Social Status and textitDSM-IV Mental Disorders:
+title: 'Associations Between Subjective Social Status and DSM-IV Mental Disorders:
   Results From the World Mental Health Surveys'
 subtitle: ''
 summary: ''
 authors:
-- Kate M. Scott
-- Ali Obaid Al-Hamzawi
-- Laura H. Andrade
-- Guilherme Borges
-- Jose Miguel Caldas-de-Almeida
-- Fabian Fiestas
-- Oye Gureje
-- Chiyi Hu
-- Elie G. Karam
-- Norito Kawakami
-- Sing Lee
-- Daphna Levinson
-- Carmen C. W. Lim
-- Fernando Navarro-Mateu
-- Michail Okoliyski
-- Jose Posada-Villa
-- Yolanda Torres
-- David R. Williams
-- Victoria Zakhozha
-- Ronald C. Kessler
+- K.M. Scott
+- A.O. Obaid Al-Hamzawi
+- L.H. Andrade
+- G. Borges
+- J.M.C. de-Almeida
+- F. Fiestas
+- O. Gureje
+- C. Hu
+- E.G. Karam
+- N. Kawakami
+- S. Lee
+- D. Levinson
+- C.C.W. Lim
+- F. Navarro-Mateu
+- M. Okoliyski
+- J. Posada-Villa
+- Y. Torres
+- D.R. Williams
+- V. Zakhozha
+- R.C. Kessler
 tags: []
 categories: []
 date: '2014-12-01'

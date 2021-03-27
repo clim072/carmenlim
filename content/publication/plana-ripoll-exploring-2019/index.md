@@ -5,39 +5,40 @@ title: Exploring Comorbidity Within Mental Disorders Among a Danish National Pop
 subtitle: ''
 summary: ''
 authors:
-- Oleguer Plana-Ripoll
-- Carsten Bøcker Pedersen
-- Yan Holtz
-- Michael E. Benros
-- Søren Dalsgaard
-- Peter de Jonge
-- Chun Chieh Fan
-- Louisa Degenhardt
-- Andrea Ganna
-- Aja Neergaard Greve
-- Jane Gunn
-- Kim Moesgaard Iburg
-- Lars Vedel Kessing
-- Brian K. Lee
-- Carmen C. W. Lim
-- Ole Mors
-- Merete Nordentoft
-- Anders Prior
-- Annelieke M. Roest
-- Sukanta Saha
-- Andrew Schork
-- James G. Scott
-- Kate M. Scott
-- Terry Stedman
-- Holger J. Sørensen
-- Thomas Werge
-- Harvey A. Whiteford
-- Thomas Munk Laursen
-- Esben Agerbo
-- Ronald C. Kessler
-- Preben Bo Mortensen
-- John J. McGrath
-tags: []
+- O. Plana-Ripoll
+- C.B. Pedersen
+- Y. Holtz
+- M.E. Benros
+- S. Dalsgaard
+- P. de Jonge
+- C.C. Fan
+- L. Degenhardt
+- A. Ganna
+- A.N. Greve
+- J. Gunn
+- K.M. Iburg
+- L.V. Kessing
+- B.K. Lee
+- C.C.W. Lim
+- O. Mors
+- M. Nordentoft
+- A. Prior
+- A.M. Roest
+- S. Saha
+- A. Schork
+- J.G. Scott
+- K.M. Scott
+- T. Stedman
+- H.J. Sørensen
+- T. Werge
+- H.A. Whiteford
+- T.M. Laursen
+- E. Agerbo
+- R.C. Kessler
+- P.B. Mortensen
+- J.J. McGrath
+tags: 
+- '"Comorbidity"'
 categories: []
 date: '2019-03-01'
 lastmod: 2021-03-27T12:28:20+10:00

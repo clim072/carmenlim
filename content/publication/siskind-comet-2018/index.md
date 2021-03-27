@@ -7,20 +7,20 @@ title: 'CoMET: a protocol for a randomised controlled trial of co-commencement o
 subtitle: ''
 summary: ''
 authors:
-- Dan Siskind
-- Nadia Friend
-- Anthony Russell
-- John J McGrath
-- Carmen Lim
-- Sue Patterson
-- Dylan Flaws
-- Terry Stedman
-- Vikas Moudgil
-- Savio Sardinha
-- Shuichi Suetani
-- Steve Kisely
-- Karl Winckel
-- Andrea Baker
+- D.Siskind
+- N. Friend
+- A. Russell
+- J.J. McGrath
+- C. Lim
+- S. Patterson
+- D. Flaws
+- T. Stedman
+- V. Moudgil
+- S. Sardinha
+- S. Suetani
+- S. Kisely
+- K. Winckel
+- A. Baker
 tags: []
 categories: []
 date: '2018-03-01'

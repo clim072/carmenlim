@@ -8,12 +8,12 @@ summary: ''
 authors:
 - F. Navarro-Mateu
 - J. Alonso
-- C. C. W. Lim
+- C.C.W. Lim
 - S. Saha
 - S. Aguilar-Gaxiola
-- A. Al-Hamzawi
-- L. H. Andrade
-- E. J. Bromet
+- A.O. Al-Hamzawi
+- L.H. Andrade
+- E.J. Bromet
 - R. Bruffaerts
 - S. Chatterji
 - L. Degenhardt
@@ -22,24 +22,24 @@ authors:
 - J. Fayyad
 - S. Florescu
 - O. Gureje
-- J. M. Haro
+- J.M. Haro
 - C. Hu
-- E. G. Karam
+- E.G. Karam
 - V. Kovess-Masfety
 - S. Lee
-- M. E. Medina-Mora
+- M.E. Medina-Mora
 - A. Ojagbemi
-- B.-E. Pennell
+- B.E. Pennell
 - M. Piazza
 - J. Posada-Villa
-- K. M. Scott
-- J. C. Stagnaro
+- K.M. Scott
+- J.C. Stagnaro
 - M. Xavier
-- K. S. Kendler
-- R. C. Kessler
-- J. J. McGrath
-- the WHO World Mental Health Survey Collaborators
-tags: []
+- K.S. Kendler
+- R.C. Kessler
+- J.J. McGrath
+tags: 
+- '"Psychotic experiences"'
 categories: []
 date: '2017-07-01'
 lastmod: 2021-03-27T12:28:18+10:00

@@ -5,14 +5,14 @@ title: The cross-national epidemiology of DSM-IV intermittent explosive disorder
 subtitle: ''
 summary: ''
 authors:
-- K. M. Scott
-- C. C. W. Lim
+- K.M. Scott
+- C.C.W. Lim
 - I. Hwang
 - T. Adamowski
-- A. Al-Hamzawi
+- A.O. Al-Hamzawi
 - E. Bromet
 - B. Bunting
-- M. P. Ferrand
+- M.P. Ferrand
 - S. Florescu
 - O. Gureje
 - H. Hinkov
@@ -22,10 +22,11 @@ authors:
 - J. Posada-Villa
 - D. Stein
 - H. Tachimori
-- M. C. Viana
+- M.C. Viana
 - M. Xavier
-- R. C. Kessler
-tags: []
+- R.C. Kessler
+tags: 
+- '"Mental disorders"'
 categories: []
 date: '2016-11-01'
 lastmod: 2021-03-27T12:28:17+10:00

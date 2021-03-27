@@ -5,45 +5,46 @@ title: Association between Mental Disorders and Subsequent Medical Conditions
 subtitle: ''
 summary: ''
 authors:
-- Natalie C. Momen
-- Oleguer Plana-Ripoll
-- Esben Agerbo
-- Michael E. Benros
-- Anders D. Børglum
-- Maria K. Christensen
-- Søren Dalsgaard
-- Louisa Degenhardt
-- Peter de Jonge
-- Jean-Christophe P.G. Debost
-- Morten Fenger-Grøn
-- Jane M. Gunn
-- Kim M. Iburg
-- Lars V. Kessing
-- Ronald C. Kessler
-- Thomas M. Laursen
-- Carmen C.W. Lim
-- Ole Mors
-- Preben B. Mortensen
-- Katherine L. Musliner
-- Merete Nordentoft
-- Carsten B. Pedersen
-- Liselotte V. Petersen
-- Anette R. Ribe
-- Annelieke M. Roest
-- Sukanta Saha
-- Andrew J. Schork
-- Kate M. Scott
-- Carson Sievert
-- Holger J. Sørensen
-- Terry J. Stedman
-- Mogens Vestergaard
-- Bjarni Vilhjalmsson
-- Thomas Werge
-- Nanna Weye
-- Harvey A. Whiteford
-- Anders Prior
-- John J. McGrath
-tags: []
+- N.C. Momen
+- O. Plana-Ripoll
+- E. Agerbo
+- M.E. Benros
+- A.D. Børglum
+- M.K. Christensen
+- S. Dalsgaard
+- L. Degenhardt
+- P. de Jonge
+- J.C.P.G. Debost
+- M. Fenger-Grøn
+- J.M. Gunn
+- K.M. Iburg
+- L.V. Kessing
+- R.C. Kessler
+- T.M. Laursen
+- C.C.W. Lim
+- O. Mors
+- P.B. Mortensen
+- K.L. Musliner
+- M. Nordentoft
+- C.B. Pedersen
+- L.V. Petersen
+- A.R. Ribe
+- A.M. Roest
+- S. Saha
+- A.J. Schork
+- K.M. Scott
+- C. Sievert
+- H.J. Sørensen
+- T.J. Stedman
+- M. Vestergaard
+- B. Vilhjalmsson
+- T. Werge
+- N. Weye
+- H.A. Whiteford
+- A. Prior
+- J.J. McGrath
+tags: 
+- '"Comorbidity"'
 categories: []
 date: '2020-04-01'
 lastmod: 2021-03-27T12:28:21+10:00

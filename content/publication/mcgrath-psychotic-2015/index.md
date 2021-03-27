@@ -6,31 +6,32 @@ title: 'Psychotic Experiences in the General Population: A Cross-National Analys
 subtitle: ''
 summary: ''
 authors:
-- John J. McGrath
-- Sukanta Saha
-- Ali Al-Hamzawi
-- Jordi Alonso
-- Evelyn J. Bromet
-- Ronny Bruffaerts
-- José Miguel Caldas-de-Almeida
-- Wai Tat Chiu
-- Peter de Jonge
-- John Fayyad
-- Silvia Florescu
-- Oye Gureje
-- Josep Maria Haro
-- Chiyi Hu
-- Viviane Kovess-Masfety
-- Jean Pierre Lepine
-- Carmen C. W. Lim
-- Maria Elena Medina Mora
-- Fernando Navarro-Mateu
-- Susana Ochoa
-- Nancy Sampson
-- Kate Scott
-- Maria Carmen Viana
-- Ronald C. Kessler
-tags: []
+- J.J. McGrath
+- S. Saha
+- A.O. Al-Hamzawi
+- J. Alonso
+- E.J. Bromet
+- R. Bruffaerts
+- J.M.C. de-Almeida
+- W.T. Chiu
+- P. de Jonge
+- J. Fayyad
+- S. Florescu
+- O. Gureje
+- J.M. Haro
+- C. Hu
+- V. Kovess-Masfety
+- J.P. Lepine
+- C.C.W. Lim
+- M.E. Medina Mora
+- F. Navarro-Mateu
+- S. Ochoa
+- N.A. Sampson
+- K.M. Scott
+- M.C. Viana
+- R.C. Kessler
+tags: 
+- '"Psychotic experiences"'
 categories: []
 date: '2015-07-01'
 lastmod: 2021-03-27T12:28:16+10:00

@@ -5,15 +5,16 @@ title: 'Co‐morbidity between mood and anxiety disorders: A systematic review a
 subtitle: ''
 summary: ''
 authors:
-- Sukanta Saha
-- Carmen C. W. Lim
-- Danielle L. Cannon
-- Lucinda Burton
-- Monique Bremner
-- Peter Cosgrove
-- Yan Huo
-- John McGrath
-tags: []
+- S. Saha
+- C.C.W. Lim
+- D.L. Cannon
+- L. Burton
+- M. Bremner
+- P. Cosgrove
+- Y. Huo
+- J.J. McGrath
+tags: 
+- '"Comorbidity"'
 categories: []
 date: '2021-03-01'
 lastmod: 2021-03-27T12:28:21+10:00

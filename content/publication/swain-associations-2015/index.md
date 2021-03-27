@@ -6,24 +6,25 @@ title: Associations between DSM-IV mental disorders and subsequent non-fatal, se
 subtitle: ''
 summary: ''
 authors:
-- Nicola R. Swain
-- Carmen C.W. Lim
-- Daphna Levinson
-- Fabian Fiestas
-- Giovanni de Girolamo
-- Jacek Moskalewicz
-- Jean-Pierre Lepine
-- Jose Posada-Villa
-- Josep Maria Haro
-- María Elena Medina-Mora
-- Miguel Xavier
-- Noboru Iwata
-- Peter de Jonge
-- Ronny Bruffaerts
-- Siobhan O'Neill
-- Ron C. Kessler
-- Kate M. Scott
-tags: []
+- N.R. Swain
+- C.C.W. Lim
+- D. Levinson
+- F. Fiestas
+- G. de Girolamo
+- J. Moskalewicz
+- J.P. Lepine
+- J. Posada-Villa
+- J.M. Haro
+- M.E. Medina-Mora
+- M. Xavier
+- N. Iwata
+- P. de Jonge
+- R. Bruffaerts
+- S. O'Neill
+- R.C. Kessler
+- K.M. Scott
+tags: 
+- '"Mental disorders"'
 categories: []
 date: '2015-08-01'
 lastmod: 2021-03-27T12:28:16+10:00

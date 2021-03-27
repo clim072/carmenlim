@@ -5,11 +5,11 @@ title: Generalized Anxiety Disorder
 subtitle: ''
 summary: ''
 authors:
-- Ayelet Meron Ruscio
-- Lauren S. Hallion
-- Koen Demyttenaere
-- Sing Lee
-- Carmen C. W. Lim
+- A.M. Ruscio
+- L.S. Hallion
+- K. Demyttenaere
+- S. Lee
+- C.C.W. Lim
 tags: []
 categories: []
 date: '2018-01-01'

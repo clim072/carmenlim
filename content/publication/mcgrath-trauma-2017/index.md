@@ -6,38 +6,39 @@ title: 'Trauma and psychotic experiences: transnational data from the World Ment
 subtitle: ''
 summary: ''
 authors:
-- John J. McGrath
-- Sukanta Saha
-- Carmen C. W. Lim
-- Sergio Aguilar-Gaxiola
-- Jordi Alonso
-- Laura H. Andrade
-- Evelyn J. Bromet
-- Ronny Bruffaerts
-- José M. Caldas de Almeida
-- Graça Cardoso
-- Giovanni de Girolamo
-- John Fayyad
-- Silvia Florescu
-- Oye Gureje
-- Josep M. Haro
-- Norito Kawakami
-- Karestan C. Koenen
-- Viviane Kovess-Masfety
-- Sing Lee
-- Jean-Pierre Lepine
-- Katie A. McLaughlin
-- Maria E. Medina-Mora
-- Fernando Navarro-Mateu
-- Akin Ojagbemi
-- Jose Posada-Villa
-- Nancy Sampson
-- Kate M. Scott
-- Hisateru Tachimori
-- Margreet ten Have
-- Kenneth S. Kendler
-- Ronald C. Kessler
-tags: []
+- J.J. McGrath
+- S. Saha
+- C.C.W. Lim
+- S. Aguilar-Gaxiola
+- J. Alonso
+- L.H. Andrade
+- E.J. Bromet
+- R. Bruffaerts
+- J.M.C. de Almeida
+- G. Cardoso
+- G. de Girolamo
+- J. Fayyad
+- S. Florescu
+- O. Gureje
+- J.M. Haro
+- N. Kawakami
+- K.C. Koenen
+- V. Kovess-Masfety
+- S. Lee
+- J.P. Lepine
+- K.A. McLaughlin
+- M.E. Medina-Mora
+- F. Navarro-Mateu
+- A. Ojagbemi
+- J. Posada-Villa
+- N.A. Sampson
+- K.M. Scott
+- H. Tachimori
+- M. ten Have
+- K.S. Kendler
+- R.C. Kessler
+tags: 
+- '"Psychotic experiences"'
 categories: []
 date: '2017-12-01'
 lastmod: 2021-03-27T12:28:18+10:00

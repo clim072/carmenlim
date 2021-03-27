@@ -6,42 +6,42 @@ title: 'The cross-national epidemiology of social anxiety disorder: Data from th
 subtitle: ''
 summary: ''
 authors:
-- Dan J. Stein
-- Carmen C. W. Lim
-- Annelieke M. Roest
-- Peter de Jonge
-- Sergio Aguilar-Gaxiola
-- Ali Al-Hamzawi
-- Jordi Alonso
-- Corina Benjet
-- Evelyn J. Bromet
-- Ronny Bruffaerts
-- Giovanni de Girolamo
-- Silvia Florescu
-- Oye Gureje
-- Josep Maria Haro
-- Meredith G. Harris
-- Yanling He
-- Hristo Hinkov
-- Itsuko Horiguchi
-- Chiyi Hu
-- Aimee Karam
-- Elie G. Karam
-- Sing Lee
-- Jean-Pierre Lepine
-- Fernando Navarro-Mateu
-- Beth-Ellen Pennell
-- Marina Piazza
-- Jose Posada-Villa
-- Margreet ten Have
-- Yolanda Torres
-- Maria Carmen Viana
-- Bogdan Wojtyniak
-- Miguel Xavier
-- Ronald C. Kessler
-- WHO World Mental Health Survey Collaborators
-- Kate M. Scott
-tags: []
+- D.J. Stein
+- C.C.W. Lim
+- A.M. Roest
+- P. de Jonge
+- S. Aguilar-Gaxiola
+- A.O. Al-Hamzawi
+- J. Alonso
+- C. Benjet
+- E.J. Bromet
+- R. Bruffaerts
+- G. de Girolamo
+- S. Florescu
+- O. Gureje
+- J.M. Haro
+- M.G. Harris
+- Y. He
+- H. Hinkov
+- I. Horiguchi
+- C. Hu
+- A. Karam
+- E.G. Karam
+- S. Lee
+- J.P. Lepine
+- F. Navarro-Mateu
+- B.E. Pennell
+- M. Piazza
+- J. Posada-Villa
+- M. ten Have
+- Y. Torres
+- M.C. Viana
+- B. Wojtyniak
+- M. Xavier
+- R. C. Kessler
+- K.M. Scott
+tags: 
+- '"Mental disorders"'
 categories: []
 date: '2017-12-01'
 lastmod: 2021-03-27T12:28:18+10:00

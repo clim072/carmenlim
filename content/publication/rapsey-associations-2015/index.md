@@ -5,27 +5,28 @@ title: Associations between DSM-IV mental disorders and subsequent COPD diagnosi
 subtitle: ''
 summary: ''
 authors:
-- Charlene M. Rapsey
-- Carmen C.W. Lim
-- Ali Al-Hamzawi
-- Jordi Alonso
-- Ronny Bruffaerts
-- J.M. Caldas-de-Almeida
-- Silvia Florescu
-- Giovanni de Girolamo
-- Chiyi Hu
-- Ronald C. Kessler
-- Viviane Kovess-Masfety
-- Daphna Levinson
-- María Elena Medina-Mora
-- Sam Murphy
-- Yutaka Ono
-- Maria Piazza
-- Jose Posada-Villa
-- Margreet ten Have
-- Bogdan Wojtyniak
-- Kate M. Scott
-tags: []
+- C.M. Rapsey
+- C.C.W. Lim
+- A.O. Al-Hamzawi
+- J. Alonso
+- R. Bruffaerts
+- J.M.C de-Almeida
+- S. Florescu
+- G. de Girolamo
+- C. Hu
+- R.C. Kessler
+- V. Kovess-Masfety
+- D. Levinson
+- M.E. Medina-Mora
+- S. Murphy
+- Y. Ono
+- M. Piazza
+- J. Posada-Villa
+- M. ten Have
+- B. Wojtyniak
+- K.M. Scott
+tags: 
+- '"Mental disorders"'
 categories: []
 date: '2015-11-01'
 lastmod: 2021-03-27T12:28:16+10:00

@@ -6,36 +6,37 @@ title: 'Psychotic experiences and general medical conditions: a cross-national a
 subtitle: ''
 summary: ''
 authors:
-- Kate M. Scott
-- Sukanta Saha
-- Carmen C.W. Lim
-- Sergio Aguilar-Gaxiola
-- Ali Al-Hamzawi
-- Jordi Alonso
-- Corina Benjet
-- Evelyn J. Bromet
-- Ronny Bruffaerts
-- José Miguel Caldas-de-Almeida
-- Giovanni de Girolamo
-- Peter de Jonge
-- Louisa Degenhardt
-- Silvia Florescu
-- Oye Gureje
-- Josep M. Haro
-- Chiyi Hu
-- Elie G. Karam
-- Viviane Kovess-Masfety
-- Sing Lee
-- Jean-Pierre Lepine
-- Zeina Mneimneh
-- Fernando Navarro-Mateu
-- Marina Piazza
-- José Posada-Villa
-- Nancy A. Sampson
-- Juan Carlos Stagnaro
-- Ronald C. Kessler
-- John J. McGrath
-tags: []
+- K.M. Scott
+- S. Saha
+- C.C.W. Lim
+- S. Aguilar-Gaxiola
+- A.O. Al-Hamzawi
+- J. Alonso
+- C. Benjet
+- E. J. Bromet
+- R. Bruffaerts
+- J.M.C. de-Almeida
+- G. de Girolamo
+- P. de Jonge
+- L. Degenhardt
+- S. Florescu
+- O. Gureje
+- J.M. Haro
+- C. Hu
+- E.G. Karam
+- V. Kovess-Masfety
+- S. Lee
+- J.P. Lepine
+- Z. Mneimneh
+- F. Navarro-Mateu
+- M. Piazza
+- J. Posada-Villa
+- N.A. Sampson
+- J.C. Stagnaro
+- R.C. Kessler
+- J.J. McGrath
+tags: 
+- '"Psychotic experiences"'
 categories: []
 date: '2018-12-01'
 lastmod: 2021-03-27T12:28:19+10:00

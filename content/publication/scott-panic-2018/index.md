@@ -5,11 +5,11 @@ title: Panic Disorder and Panic Attacks
 subtitle: ''
 summary: ''
 authors:
-- Peter de Jonge
-- Annelieke M. Roest
-- Carmen C. W. Lim
-- Daphna Levinson
-- Kate M. Scott
+- P. de Jonge
+- A.M. Roest
+- C.C.W. Lim
+- D. Levinson
+- K.M. Scott
 tags: []
 categories: []
 date: '2018-01-01'

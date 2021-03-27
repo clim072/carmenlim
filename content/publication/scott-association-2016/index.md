@@ -6,26 +6,27 @@ title: 'Association of Mental Disorders With Subsequent Chronic Physical Conditi
 subtitle: ''
 summary: ''
 authors:
-- Kate M. Scott
-- Carmen Lim
-- Ali Al-Hamzawi
-- Jordi Alonso
-- Ronny Bruffaerts
-- José Miguel Caldas-de-Almeida
-- Silvia Florescu
-- Giovanni de Girolamo
-- Chiyi Hu
-- Peter de Jonge
-- Norito Kawakami
-- Maria Elena Medina-Mora
-- Jacek Moskalewicz
-- Fernando Navarro-Mateu
-- Siobhan O’Neill
-- Marina Piazza
-- José Posada-Villa
-- Yolanda Torres
-- Ronald C. Kessler
-tags: []
+- K.M. Scott
+- C.C.W. Lim
+- A.O. Al-Hamzawi
+- J. Alonso
+- R. Bruffaerts
+- J.M.C. de-Almeida
+- S. Florescu
+- G. de Girolamo
+- C. Hu
+- P. de Jonge
+- N. Kawakami
+- M.E. Medina-Mora
+- J. Moskalewicz
+- F. Navarro-Mateu
+- S. O’Neill
+- M. Piazza
+- J. Posada-Villa
+- Y. Torres
+- R.C. Kessler
+tags: 
+- '"Mental disorders"'
 categories: []
 date: '2016-02-01'
 lastmod: 2021-03-27T12:28:17+10:00

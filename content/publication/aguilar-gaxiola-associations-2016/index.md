@@ -29,7 +29,10 @@ authors:
 - S. Florescu
 - J.M Haro
 - K.M. Scott
-tags: []
+tags: 
+- '"Mental disorders"'
+- '"Comorbidity"'
+- '"Mental-physical comorbidity"'
 categories: []
 date: '2016-03-01'
 lastmod: 2021-03-27T12:28:16+10:00

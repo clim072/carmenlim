@@ -6,35 +6,36 @@ title: The cross-national epidemiology of specific phobia in the World Mental He
 subtitle: ''
 summary: ''
 authors:
-- K. J. Wardenaar
-- C. C. W. Lim
-- A. O. Al-Hamzawi
+- K.J. Wardenaar
+- C.C.W. Lim
+- A.O. Al-Hamzawi
 - J. Alonso
-- L. H. Andrade
+- L.H. Andrade
 - C. Benjet
 - B. Bunting
 - G. de Girolamo
 - K. Demyttenaere
-- S. E. Florescu
+- S.E. Florescu
 - O. Gureje
 - T. Hisateru
 - C. Hu
 - Y. Huang
 - E. Karam
 - A. Kiejna
-- J. P. Lepine
+- J.P. Lepine
 - F. Navarro-Mateu
 - M. Oakley Browne
 - M. Piazza
 - J. Posada-Villa
-- M. L. ten Have
+- M.L. ten Have
 - Y. Torres
 - M. Xavier
 - Z. Zarkov
-- R. C. Kessler
-- K. M. Scott
+- R.C. Kessler
+- K.M. Scott
 - P. de Jonge
-tags: []
+tags: 
+- '"Mental disorder"'
 categories: []
 date: '2017-07-01'
 lastmod: 2021-03-27T12:28:18+10:00

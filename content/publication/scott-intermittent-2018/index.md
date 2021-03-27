@@ -5,10 +5,10 @@ title: Intermittent Explosive Disorder
 subtitle: ''
 summary: ''
 authors:
-- Kate M. Scott
-- Carmen C. W. Lim
-- Ali Al-Hamzawi
-- Jordi Alonso
+- K.M. Scott
+- C.C.W. Lim
+- A.O. Al-Hamzawi
+- J. Alonso
 tags: []
 categories: []
 date: '2018-01-01'

@@ -6,23 +6,23 @@ title: 'Associations between Lifetime Traumatic Events and Subsequent Chronic Ph
 subtitle: ''
 summary: ''
 authors:
-- Kate M. Scott
-- Karestan C. Koenen
-- Sergio Aguilar-Gaxiola
-- Jordi Alonso
-- Matthias C. Angermeyer
-- Corina Benjet
-- Ronny Bruffaerts
-- Jose Miguel Caldas-de-Almeida
-- Giovanni de Girolamo
-- Silvia Florescu
-- Noboru Iwata
-- Daphna Levinson
-- Carmen C. W. Lim
-- Sam Murphy
-- Johan Ormel
-- Jose Posada-Villa
-- Ronald C. Kessler
+- K.M. Scott
+- K.C. Koenen
+- S. Aguilar-Gaxiola
+- J. Alonso
+- M.C. Angermeyer
+- C. Benjet
+- R. Bruffaerts
+- J.M.C. de-Almeida
+- G. de Girolamo
+- S. Florescu
+- N. Iwata
+- D. Levinson
+- C.C.W. Lim
+- S. Murphy
+- J. Ormel
+- J. Posada-Villa
+- R.C. Kessler
 tags: []
 categories: []
 date: '2013-11-01'

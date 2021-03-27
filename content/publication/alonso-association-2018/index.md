@@ -35,7 +35,8 @@ authors:
 - M.C Viana
 - R.C. Kessler
 - J.J. McGrath
-tags: []
+tags: 
+- '"Psychotic experiences"'
 categories: []
 date: '2018-11-01'
 lastmod: 2021-03-27T12:28:18+10:00

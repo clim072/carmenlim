@@ -6,26 +6,26 @@ title: 'Effect of Sodium Benzoate vs Placebo Among Individuals With Early Psycho
 subtitle: ''
 summary: ''
 authors:
-- James G. Scott
-- Andrea Baker
-- Carmen C. W. Lim
-- Sharon Foley
-- Frances Dark
-- Anne Gordon
-- David Ward
-- Drew Richardson
-- George Bruxner
-- K. Martin Beckmann
-- Sean Hatherill
-- Stephen Stathis
-- Krystal Dixon
-- Alexander E. Ryan
-- Brett C. McWhinney
-- Jacobus P. J. Ungerer
-- Michael Berk
-- Olivia M. Dean
-- Sukanta Saha
-- John McGrath
+- J.G. Scott
+- A. Baker
+- C.C.W. Lim
+- S. Foley
+- F. Dark
+- A. Gordon
+- D. Ward
+- D. Richardson
+- G. Bruxner
+- K.M Beckmann
+- S. Hatherill
+- S. Stathis
+- K. Dixon
+- A.E. Ryan
+- B.C. McWhinney
+- J.P.J. Ungerer
+- M. Berk
+- O.M. Dean
+- S. Saha
+- J.J. McGrath
 tags: []
 categories: []
 date: '2020-11-01'

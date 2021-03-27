@@ -6,30 +6,30 @@ title: 'Comorbidity within mental disorders: a comprehensive analysis based on 1
 subtitle: ''
 summary: ''
 authors:
-- J. J. McGrath
-- C. C. W. Lim
+- J.J. McGrath
+- C.C.W. Lim
 - O. Plana-Ripoll
 - Y. Holtz
 - E. Agerbo
-- N. C. Momen
-- P. B. Mortensen
-- C. B. Pedersen
+- N.C. Momen
+- P.B. Mortensen
+- C.B. Pedersen
 - J. Abdulmalik
 - S. Aguilar-Gaxiola
-- A. Al-Hamzawi
+- A.O. Al-Hamzawi
 - J. Alonso
-- E. J. Bromet
+- E.J. Bromet
 - R. Bruffaerts
 - B. Bunting
-- J. M. C. de Almeida
+- J.M.C. de Almeida
 - G. de Girolamo
-- Y. A. De Vries
+- Y.A. De Vries
 - S. Florescu
 - O. Gureje
-- J. M. Haro
-- M. G. Harris
+- J.M. Haro
+- M.G. Harris
 - C. Hu
-- E. G. Karam
+- E.G. Karam
 - N. Kawakami
 - A. Kiejna
 - V. Kovess-Masfety
@@ -38,17 +38,18 @@ authors:
 - F. Navarro-Mateu
 - R. Orozco
 - J. Posada-Villa
-- A. M. Roest
+- A.M. Roest
 - S. Saha
-- K. M. Scott
-- J. C. Stagnaro
-- D. J. Stein
+- K.M. Scott
+- J.C. Stagnaro
+- D.J. Stein
 - Y. Torres
-- M. C. Viana
+- M.C. Viana
 - Y. Ziv
-- R. C. Kessler
+- R.C. Kessler
 - P. de Jonge
-tags: []
+tags: 
+- '"Comorbidity"'
 categories: []
 date: '2020-01-01'
 lastmod: 2021-03-27T12:28:21+10:00

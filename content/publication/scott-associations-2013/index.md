@@ -6,31 +6,32 @@ title: Associations between DSM-IV mental disorders and onset of self-reported p
 subtitle: ''
 summary: ''
 authors:
-- Kate M. Scott
-- Jordi Alonso
-- Peter de Jonge
-- Maria Carmen Viana
-- Zhaorui Liu
-- Siobhan O'Neill
-- Sergio Aguilar-Gaxiola
-- Ronny Bruffaerts
-- Jose Miguel Caldas-de-Almeida
-- Dan J. Stein
-- Matthias Angermeyer
-- Corina Benjet
-- Giovanni de Girolamo
-- Ingrid-Laura Firuleasa
-- Chiyi Hu
-- Andrzej Kiejna
-- Viviane Kovess-Masfety
-- Daphna Levinson
-- Yoshibumi Nakane
-- Marina Piazza
-- José A. Posada-Villa
-- Mohammad Salih Khalaf
-- Carmen C.W. Lim
-- Ronald C. Kessler
-tags: []
+- K.M. Scott
+- J. Alonso
+- P. de Jonge
+- M.C. Viana
+- Z. Liu
+- S. O'Neill
+- S. Aguilar-Gaxiola
+- R. Bruffaerts
+- J.M.C. de-Almeida
+- D.J. Stein
+- M. Angermeyer
+- C. Benjet
+- G. de Girolamo
+- I.L. Firuleasa
+- C. Hu
+- A. Kiejna
+- V. Kovess-Masfety
+- D. Levinson
+- Y. Nakane
+- M. Piazza
+- J.A. Posada-Villa
+- M.S. Khalaf
+- C.C.W. Lim
+- R.C. Kessler
+tags: 
+- '"Mental disorders"'
 categories: []
 date: '2013-08-01'
 lastmod: 2021-03-27T12:28:14+10:00
