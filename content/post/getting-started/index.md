@@ -61,7 +61,7 @@ The publication of this paper also coincides with low-dose cannabidiol oil (CBD)
 
 {{< figure src="https://raw.githubusercontent.com/clim072/cannabisvapingYT/main/Screen%20Shot%202021-03-27%20at%205.48.41%20pm.png" title=" " >}}
 
-## Links to other media coverage
+### Links to other media coverage
 
 - 👉 [**Courier Mail**](https://www.couriermail.com.au/news/queensland/uq-study-finds-youtube-videos-depict-cannabis-vaping-as-fun-easy-for-kids-to-access/news-story/77fb0d0416be6aa8bf7a5ccee30b6d1f)
 
