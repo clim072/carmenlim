@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -44,11 +44,12 @@ categories:
 
 After 2 rounds of revisions, the paper was finally accepted and published in [**Addiction**](https://onlinelibrary.wiley.com/doi/abs/10.1111/add.15424). Happy days! Addiction's acceptance rate is ~10%. I could not be more thankful to my advisory team and peers for all their support and help. 🦄✨ 
 
-I have created a video abstract to summarize my entire study. Watch it [here](https://www.youtube.com/watch?v=Mx2Ctvv9I-Y)
+I have created a video abstract to summarize my entire study.  
 
-<iframe width="400" height="600" src="https://www.youtube.com/embed/Mx2Ctvv9I-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="400" src="https://www.youtube.com/embed/Mx2Ctvv9I-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Kristy from UQ HABS also helped to write a media release for this study which is a great way to increase the impact of my study. Thanks Kristy!
+
+Kristy from UQ HABS also helped to write a [media release](https://www.uq.edu.au/news/article/2021/02/call-tougher-age-restrictions-youtube-vaping-cannabis-videos) for this study which is a great way to increase the impact of my study. Thanks Kristy!
 
 {{< figure src="https://raw.githubusercontent.com/clim072/cannabisvapingYT/main/Screen%20Shot%202021-03-27%20at%205.13.19%20pm.png" title=" " >}}
 
@@ -60,10 +61,10 @@ The publication of this paper also coincides with low-dose cannabidiol oil (CBD)
 
 {{< figure src="https://raw.githubusercontent.com/clim072/cannabisvapingYT/main/Screen%20Shot%202021-03-27%20at%205.48.41%20pm.png" title=" " >}}
 
-## Other Media Coverage
+## Links to other media coverage
 
-- 👉 [**Courier Mail**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
+- 👉 [**Courier Mail**](https://www.couriermail.com.au/news/queensland/uq-study-finds-youtube-videos-depict-cannabis-vaping-as-fun-easy-for-kids-to-access/news-story/77fb0d0416be6aa8bf7a5ccee30b6d1f)
+
  
 
 
