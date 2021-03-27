@@ -6,15 +6,15 @@ title: Gateway or common liability? A systematic review and meta-analysis of stu
 subtitle: ''
 summary: ''
 authors:
-- Gary C. K. Chan
-- Daniel Stjepanović
-- Carmen Lim
-- Tianze Sun
-- Aathavan Shanmuga Anandan
-- Jason P. Connor
-- Coral Gartner
-- Wayne D. Hall
-- Janni Leung
+- G.C.K. Chan
+- D. Stjepanović
+- C.C.W. Lim
+- T. Sun
+- A.S. Anandan
+- J.P. Connor
+- C. Gartner
+- W.D. Hall
+- J. Leung
 tags:
 - '"Adolescent"'
 - '"cigarette"'

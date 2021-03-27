@@ -9,7 +9,7 @@ authors:
 - G. Loera
 - E.M. Geraghty
 - H. Ton
-- **C.C.W. Lim**
+- C.C.W. Lim
 - P. de Jonge
 - R.C. Kessler
 - J. Posada-Villa

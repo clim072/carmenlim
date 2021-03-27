@@ -5,17 +5,17 @@ title: Content analysis of cannabis vaping videos on YouTube
 subtitle: ''
 summary: ''
 authors:
-- Carmen C. W. Lim
-- Janni Leung
-- Jack Yiu Chak Chung
-- Tianze Sun
-- Coral Gartner
-- Jason Connor
-- Wayne Hall
-- Vivian Chiu
-- Calvert Tisdale
-- Daniel Stjepanović
-- Gary Chan
+- C.C.W. Lim
+- J. Leung
+- J.Y.C. Chung
+- T. Sun
+- C. Gartner
+- J. Connor
+- W.D. Hall
+- V. Chiu
+- C. Tisdale
+- D. Stjepanović
+- G.K.C. Chan
 tags:
 - '"Cannabis"'
 - '"YouTube"'

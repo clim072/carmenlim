@@ -5,19 +5,19 @@ title: Posttraumatic stress disorder in the World Mental Health Surveys
 subtitle: ''
 summary: ''
 authors:
-- K. C. Koenen
+- K.C. Koenen
 - A. Ratanatharathorn
 - L. Ng
-- K. A. McLaughlin
-- E. J. Bromet
-- D. J. Stein
-- E. G. Karam
+- K.A. McLaughlin
+- E.J. Bromet
+- D.J. Stein
+- E.G. Karam
 - A. Meron Ruscio
 - C. Benjet
-- K. Scott
+- K.M. Scott
 - L. Atwoli
 - M. Petukhova
-- C. C.W. Lim
+- C.C.W. Lim
 - S. Aguilar-Gaxiola
 - A. Al-Hamzawi
 - J. Alonso
@@ -26,20 +26,20 @@ authors:
 - G. de Girolamo
 - L. Degenhardt
 - O. Gureje
-- J. M. Haro
+- J.M. Haro
 - Y. Huang
 - N. Kawakami
 - S. Lee
 - F. Navarro-Mateu
-- B.-E. Pennell
+- B.E. Pennell
 - M. Piazza
 - N. Sampson
 - M. ten Have
 - Y. Torres
-- M. C. Viana
+- M.C. Viana
 - D. Williams
 - M. Xavier
-- R. C. Kessler
+- R.C. Kessler
 tags: []
 categories: []
 date: '2017-10-01'

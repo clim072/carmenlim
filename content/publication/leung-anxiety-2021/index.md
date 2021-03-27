@@ -6,12 +6,12 @@ title: Anxiety and Panic Buying Behaviour during COVID-19 Pandemic—A Qualitati
 subtitle: ''
 summary: ''
 authors:
-- Janni Leung
-- Jack Yiu Chak Chung
-- Calvert Tisdale
-- Vivian Chiu
-- Carmen C. W. Lim
-- Gary Chan
+- J. Leung
+- J.Y.C Chung
+- C. Tisdale
+- V. Chiu
+- C.C.W. Lim
+- G.K.C. Chan
 tags:
 - '"COVID-19"'
 - '"anxiety"'

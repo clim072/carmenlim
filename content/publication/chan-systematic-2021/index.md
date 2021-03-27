@@ -6,15 +6,15 @@ title: A systematic review of randomized controlled trials and network meta-anal
 subtitle: ''
 summary: ''
 authors:
-- Gary C. K. Chan
-- Daniel Stjepanović
-- Carmen Lim
-- Tianze Sun
-- Aathavan Shanmuga Anandan
-- Jason P. Connor
-- Coral Gartner
-- Wayne D. Hall
-- Janni Leung
+- G.C.K. Chan
+- D. Stjepanović
+- C.C.W Lim
+- T. Sun
+- A.S Anandan
+- J.P. Connor
+- C. Gartner
+- W.D. Hall
+- J. Leung
 tags:
 - '"E-cigarette"'
 - '"Quitting"'

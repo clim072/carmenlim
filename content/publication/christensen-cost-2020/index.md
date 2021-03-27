@@ -5,18 +5,22 @@ title: 'The cost of mental disorders: a systematic review'
 subtitle: ''
 summary: ''
 authors:
-- M. K. Christensen
-- C. C. W. Lim
+- M.K. Christensen
+- C.C.W. Lim
 - S. Saha
 - O. Plana-Ripoll
 - D. Cannon
 - F. Presley
 - N. Weye
-- N. C. Momen
-- H. A. Whiteford
-- K. M. Iburg
-- J. J. McGrath
-tags: []
+- N.C. Momen
+- H.A. Whiteford
+- K.M. Iburg
+- J.J. McGrath
+tags: 
+- '"Cost-of-illness"'
+- '"COI"'
+- '"Mental disorders"'
+- '"Systematic review"'
 categories: []
 date: '2020-01-01'
 lastmod: 2021-03-27T12:28:20+10:00

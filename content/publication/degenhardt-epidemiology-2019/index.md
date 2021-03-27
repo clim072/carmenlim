@@ -6,42 +6,42 @@ title: 'The epidemiology of drug use disorders cross-nationally: Findings from t
 subtitle: ''
 summary: ''
 authors:
-- Louisa Degenhardt
-- Chrianna Bharat
-- Meyer D. Glantz
-- Nancy A. Sampson
-- Kate Scott
-- Carmen C.W. Lim
-- Sergio Aguilar-Gaxiola
-- Ali Al-Hamzawi
-- Jordi Alonso
-- Laura H. Andrade
-- Evelyn J. Bromet
-- Ronny Bruffaerts
-- Brendan Bunting
-- Giovanni de Girolamo
-- Oye Gureje
-- Josep Maria Haro
-- Meredith G. Harris
-- Yanling He
-- Peter de Jonge
-- Elie G. Karam
-- Georges E. Karam
-- Andrzej Kiejna
-- Sing Lee
-- Jean-Pierre Lepine
-- Daphna Levinson
-- Victor Makanjuola
-- Maria Elena Medina-Mora
-- Zeina Mneimneh
-- Fernando Navarro-Mateu
-- José Posada-Villa
-- Dan J. Stein
-- Hisateru Tachimori
-- Yolanda Torres
-- Zahari Zarkov
-- Somnath Chatterji
-- Ronald C. Kessler
+- L. Degenhardt
+- C. Bharat
+- M.D. Glantz
+- N.A. Sampson
+- K.M. Scott
+- C.C.W. Lim
+- S. Aguilar-Gaxiola
+- A.O. Al-Hamzawi
+- J. Alonso
+- L.H. Andrade
+- E.J. Bromet
+- R. Bruffaerts
+- B. Bunting
+- G. de Girolamo
+- O. Gureje
+- J.M. Haro
+- M.G. Harris
+- Y. He
+- P. de Jonge
+- E.G. Karam
+- G. E. Karam
+- A. Kiejna
+- S. Lee
+- J.P Lepine
+- D. Levinson
+- V. Makanjuola
+- M.E. Medina-Mora
+- Z. Mneimneh
+- F. Navarro-Mateu
+- J. Posada-Villa
+- D.J. Stein
+- H. Tachimori
+- Y. Torres
+- Z. Zarkov
+- S. Chatterji
+- R.C. Kessler
 tags: []
 categories: []
 date: '2019-09-01'

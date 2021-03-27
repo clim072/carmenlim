@@ -7,26 +7,28 @@ title: 'Protocol update and statistical analysis plan for CADENCE-BZ: a randomiz
 subtitle: ''
 summary: ''
 authors:
-- Carmen Lim
-- Andrea Baker
-- Sukanta Saha
-- Sharon Foley
-- Anne Gordon
-- David Ward
-- Bjorn Burgher
-- Frances Dark
-- Martin Beckmann
-- Stephen Stathis
-- George Bruxner
-- Alex Ryan
-- Drew Richardson
-- Sean Hatherill
-- Michael Berk
-- Olivia Dean
-- John McGrath
+- C.C.W. Lim
+- A. Baker
+- S. Saha
+- S. Foley
+- A. Gordon
+- D. Ward
+- B. Burgher
+- F. Dark
+- M. Beckmann
+- S. Stathis
+- G. Bruxner
+- A. Ryan
+- D. Richardson
+- S. Hatherill
+- M. Berk
+- O. Dean
+- J.J. McGrath
 - Cadence Working Group
-- James Scott
-tags: []
+- J. Scott
+tags: 
+- '"Statistical Analysis Plan"'
+- '"Randomized Controlled Trial"'
 categories: []
 date: '2019-12-01'
 lastmod: 2021-03-27T12:28:20+10:00

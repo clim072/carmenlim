@@ -5,15 +5,15 @@ title: Availability of substances for use in personal vaporisers on three online
 subtitle: ''
 summary: ''
 authors:
-- Carmen C. W Lim
-- Janni K. Y Leung
-- Jason P. Connor
-- Wayne D. Hall
-- Coral Gartner
-- Brandon H. C Cheng
-- Roman W. Scheurer
-- Tianze Sun
-- Gary C. K Chan
+- C.C.W Lim
+- J. Leung
+- J.P. Connor
+- W.D. Hall
+- C. Gartner
+- B.H.C Cheng
+- R.W. Scheurer
+- T. Sun
+- G.C.K Chan
 tags:
 - '"Cannabis"'
 - '"E-cigarettes"'

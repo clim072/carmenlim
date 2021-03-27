@@ -6,12 +6,12 @@ title: Personal Correlates of Support for Medical and Recreational Cannabis Lega
 subtitle: ''
 summary: ''
 authors:
-- Vivian Chiu
-- Gary Chan
-- Wayne Hall
-- Leanne Hides
-- Carmen Lim
-- Janni Leung
+- V. Chiu
+- G.C.K. Chan
+- W.D. Hall
+- L. Hides
+- C.C.W Lim
+- J. Leung
 tags:
 - '"Cannabis (marijuana)"'
 - '"attitudes"'

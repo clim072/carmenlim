@@ -6,42 +6,42 @@ title: 'The epidemiology of alcohol use disorders cross-nationally: Findings fro
 subtitle: ''
 summary: ''
 authors:
-- Meyer D. Glantz
-- Chrianna Bharat
-- Louisa Degenhardt
-- Nancy A. Sampson
-- Kate M. Scott
-- Carmen C.W. Lim
-- Ali Al-Hamzawi
-- Jordi Alonso
-- Laura Helena Andrade
-- Graca Cardoso
-- Giovanni De Girolamo
-- Oye Gureje
-- Yanling He
-- Hristo Hinkov
-- Elie G. Karam
-- Georges Karam
-- Viviane Kovess-Masfety
-- Victor Lasebikan
-- Sing Lee
-- Daphna Levinson
-- John McGrath
-- Maria-Elena Medina-Mora
-- Constanta Mihaescu-Pintia
-- Zeina Mneimneh
-- Jacek Moskalewicz
-- Fernando Navarro-Mateu
-- José Posada-Villa
-- Charlene Rapsey
-- Juan Carlos Stagnaro
-- Hisateru Tachimori
-- Margreet Ten Have
-- Nathan Tintle
-- Yolanda Torres
-- David R. Williams
-- Yuval Ziv
-- Ronald C. Kessler
+- M.D. Glantz
+- C. Bharat
+- L. Degenhardt
+- N.A. Sampson
+- K.M. Scott
+- C.C.W. Lim
+- A.O. Al-Hamzawi
+- J. Alonso
+- L.H. Andrade
+- G. Cardoso
+- G. De Girolamo
+- O. Gureje
+- Y. He
+- H. Hinkov
+- E.G. Karam
+- G. Karam
+- V. Kovess-Masfety
+- V. Lasebikan
+- S. Lee
+- D. Levinson
+- J.J. McGrath
+- M.E. Medina-Mora
+- C. Mihaescu-Pintia
+- Z. Mneimneh
+- J. Moskalewicz
+- F. Navarro-Mateu
+- J. Posada-Villa
+- C. Rapsey
+- J.C. Stagnaro
+- H. Tachimori
+- M. Ten Have
+- N. Tintle
+- Y.a Torres
+- D.R. Williams
+- Y. Ziv
+- R.C. Kessler
 tags: []
 categories: []
 date: '2020-03-01'

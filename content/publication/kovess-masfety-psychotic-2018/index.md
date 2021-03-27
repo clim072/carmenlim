@@ -8,7 +8,7 @@ summary: ''
 authors:
 - V. Kovess-Masfety
 - S. Saha
-- C. C. W. Lim
+- C.C.W. Lim
 - S. Aguilar-Gaxiola
 - A. Al-Hamzawi
 - J. Alonso
@@ -17,19 +17,18 @@ authors:
 - P. de Jonge
 - K. Demyttenaere
 - S. Florescu
-- J. M. Haro
+- J.M. Haro
 - C. Hu
-- E. G. Karam
+- E.G. Karam
 - N. Kawakami
 - S. Lee
-- J. P. Lepine
+- J.P. Lepine
 - F. Navarro-Mateu
-- J. C. Stagnaro
+- J.C. Stagnaro
 - M. ten Have
-- M. C. Viana
-- R. C. Kessler
-- J. J. McGrath
-- the WHO World Mental Health Survey Collaborators
+- M.C. Viana
+- R.C. Kessler
+- J.J. McGrath
 tags: []
 categories: []
 date: '2018-04-01'

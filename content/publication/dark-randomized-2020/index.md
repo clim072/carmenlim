@@ -6,16 +6,16 @@ title: Randomized controlled trial of social cognition and interaction training 
 subtitle: ''
 summary: ''
 authors:
-- Frances Dark
-- James G. Scott
-- Andrea Baker
-- Stephen Parker
-- Anne Gordon
-- Ellie Newman
-- Victoria Gore‐Jones
-- Carmen C. W. Lim
-- Lyndall Jones
-- David L. Penn
+- F. Dark
+- J.G. Scott
+- A. Baker
+- S. Parker
+- A. Gordon
+- E. Newman
+- V. Gore‐Jones
+- C.C.W. Lim
+- L. Jones
+- D.L. Penn
 tags: []
 categories: []
 date: '2020-09-01'

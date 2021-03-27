@@ -7,38 +7,38 @@ title: 'Cross-national epidemiology of panic disorder and panic attacks in the w
 subtitle: ''
 summary: ''
 authors:
-- Peter de Jonge
-- Annelieke M. Roest
-- Carmen C.W. Lim
-- Silvia E. Florescu
-- Evelyn J. Bromet
-- Dan J. Stein
-- Meredith Harris
-- Vladimir Nakov
-- Jose Miguel Caldas-de-Almeida
-- Daphna Levinson
-- Ali O. Al-Hamzawi
-- Josep Maria Haro
-- Maria Carmen Viana
-- Guilherme Borges
-- Siobhan O'Neill
-- Giovanni de Girolamo
-- Koen Demyttenaere
-- Oye Gureje
-- Noboru Iwata
-- Sing Lee
-- Chiyi Hu
-- Aimee Karam
-- Jacek Moskalewicz
-- Viviane Kovess-Masfety
-- Fernando Navarro-Mateu
-- Mark Oakley Browne
-- Marina Piazza
-- José Posada-Villa
-- Yolanda Torres
-- Margreet L. ten Have
-- Ronald C. Kessler
-- Kate M. Scott
+- P. de Jonge
+- A.M. Roest
+- C.C.W. Lim
+- S.E. Florescu
+- E.J. Bromet
+- D.J. Stein
+- M. Harris
+- V. Nakov
+- J.M. Caldas-de-Almeida
+- D. Levinson
+- A.O. Al-Hamzawi
+- J.M. Haro
+- M.C. Viana
+- G. Borges
+- S. O'Neill
+- G. de Girolamo
+- K. Demyttenaere
+- O. Gureje
+- N. Iwata
+- S. Lee
+- C. Hu
+- A. Karam
+- J. Moskalewicz
+- V. Kovess-Masfety
+- F. Navarro-Mateu
+- M. Oakley-Browne
+- M. Piazza
+- J. Posada-Villa
+- Y. Torres
+- M.L. ten Have
+- R.C. Kessler
+- K.M. Scott
 tags: []
 categories: []
 date: '2016-12-01'

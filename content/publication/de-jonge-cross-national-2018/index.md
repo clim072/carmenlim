@@ -6,27 +6,27 @@ title: 'The cross-national structure of mental disorders: results from the World
 subtitle: ''
 summary: ''
 authors:
-- Peter de Jonge
-- Klaas J. Wardenaar
-- Carmen C.W. Lim
-- Sergio Aguilar-Gaxiola
-- Jordi Alonso
-- Laura Helena Andrade
-- Brendan Bunting
-- Somnath Chatterji
-- Marius Ciutan
-- Oye Gureje
-- Elie G. Karam
-- Sing Lee
-- Maria Elena Medina-Mora
-- Jacek Moskalewicz
-- Fernando Navarro-Mateu
-- Beth-Ellen Pennell
-- Marina Piazza
-- José Posada-Villa
-- Yolanda Torres
-- Ronald C. Kessler
-- Kate Scott
+- P. de Jonge
+- K.J. Wardenaar
+- C.C.W. Lim
+- S. Aguilar-Gaxiola
+- J. Alonso
+- L.H. Andrade
+- B. Bunting
+- S. Chatterji
+- M. Ciutan
+- O. Gureje
+- E.G. Karam
+- S. Lee
+- M.E. Medina-Mora
+- J. Moskalewicz
+- F. Navarro-Mateu
+- B.E. Pennell
+- M. Piazza
+- J. Posada-Villa
+- Y. Torres
+- R.C. Kessler
+- K.M. Scott
 tags: []
 categories: []
 date: '2018-09-01'

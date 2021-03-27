@@ -7,39 +7,38 @@ title: 'The associations between psychotic experiences and substance use and sub
 subtitle: ''
 summary: ''
 authors:
-- Louisa Degenhardt
-- Sukanta Saha
-- Carmen C. W. Lim
-- Sergio Aguilar-Gaxiola
-- Ali Al-Hamzawi
-- Jordi Alonso
-- Laura H. Andrade
-- Evelyn J. Bromet
-- Ronny Bruffaerts
-- José Miguel Caldas-de-Almeida
-- Giovanni de Girolamo
-- Silvia Florescu
-- Oye Gureje
-- Josep M. Haro
-- Elie G. Karam
-- Georges Karam
-- Viviane Kovess-Masfety
-- Sing Lee
-- Jean-Pierre Lepine
-- Victor Makanjuola
-- Maria E. Medina-Mora
-- Zeina Mneimneh
-- Fernando Navarro-Mateu
-- Marina Piazza
-- José Posada-Villa
-- Nancy A. Sampson
-- Kate M. Scott
-- Juan Carlos Stagnaro
-- Margreet Ten Have
-- Kenneth S. Kendler
-- Ronald C. Kessler
-- John J. McGrath
-- on behalf of the WHO World Mental Health Survey Collaborators
+- L. Degenhardt
+- S. Saha
+- C.C.W. Lim
+- S. Aguilar-Gaxiola
+- A.O. Al-Hamzawi
+- J. Alonso
+- L.H. Andrade
+- E.J. Bromet
+- R. Bruffaerts
+- J.M. Caldas-de-Almeida
+- G. de Girolamo
+- S. Florescu
+- O. Gureje
+- J.M. Haro
+- E.G. Karam
+- G. Karam
+- V. Kovess-Masfety
+- S. Lee
+- J.P. Lepine
+- V. Makanjuola
+- M.E. Medina-Mora
+- Z. Mneimneh
+- F. Navarro-Mateu
+- M. Piazza
+- J. Posada-Villa
+- N.A. Sampson
+- K.M. Scott
+- J.C. Stagnaro
+- M. Ten Have
+- K.S. Kendler
+- R.C. Kessler
+- J.J. McGrath
 tags: []
 categories: []
 date: '2018-05-01'

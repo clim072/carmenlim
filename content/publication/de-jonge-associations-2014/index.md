@@ -6,32 +6,32 @@ title: 'Associations between DSM-IV mental disorders and diabetes mellitus: a ro
 subtitle: ''
 summary: ''
 authors:
-- Peter de Jonge
-- Jordi Alonso
-- Dan J. Stein
-- Andrzej Kiejna
-- Sergio Aguilar-Gaxiola
-- Maria Carmen Viana
-- Zhaorui Liu
-- Siobhan O’Neill
-- Ronny Bruffaerts
-- Jose Miguel Caldas-de-Almeida
-- Jean-Pierre Lepine
-- Herbert Matschinger
-- Daphna Levinson
-- Giovanni de Girolamo
-- Akira Fukao
-- Brendan Bunting
-- Josep Maria Haro
-- Jose A. Posada-Villa
-- Ali Obaid Al-Hamzawi
-- Maria Elena Medina-Mora
-- Marina Piazza
-- Chiyi Hu
-- Carmen Sasu
-- Carmen C. W. Lim
-- Ronald C. Kessler
-- Kate M. Scott
+- P. de Jonge
+- J. Alonso
+- D.J. Stein
+- A. Kiejna
+- S. Aguilar-Gaxiola
+- M.C. Viana
+- Z. Liu
+- S. O’Neill
+- R. Bruffaerts
+- J.M. Caldas-de-Almeida
+- J.P Lepine
+- H. Matschinger
+- D. Levinson
+- G. de Girolamo
+- A. Fukao
+- B. Bunting
+- J.M. Haro
+- J.A. Posada-Villa
+- A.O. Al-Hamzawi
+- M.E. Medina-Mora
+- M. Piazza
+- C. Hu
+- C. Sasu
+- C.C.W. Lim
+- R.C. Kessler
+- K.M. Scott
 tags: []
 categories: []
 date: '2014-04-01'
