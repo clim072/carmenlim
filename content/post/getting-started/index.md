@@ -31,7 +31,6 @@ image:
 authors:
 - admin
 
-
 tags:
 - Cannabis vaping
 - Content analysis
@@ -45,13 +44,18 @@ categories:
 
 After 2 rounds of revision, the paper was finally published in [**Addiction**](https://onlinelibrary.wiley.com/doi/abs/10.1111/add.15424). UQ HABS has also written a media release for the article. 🦄✨ 
 
-{{< figure src="https://raw.githubusercontent.com/clim072/cannabisvapingYT/main/Screen%20Shot%202021-03-27%20at%205.12.18%20pm.png" title="UQ HABS Media Release" >}}
-
-## Other Media Coverage
 {{< figure src="https://raw.githubusercontent.com/clim072/cannabisvapingYT/main/Screen%20Shot%202021-03-27%20at%205.13.19%20pm.png" title=" " >}}
 
+Shortly after, Gary did an Interview with the news outlet. 
+{{< figure src="https://raw.githubusercontent.com/clim072/cannabisvapingYT/main/Screen%20Shot%202021-03-27%20at%205.48.41%20pm.png" title=" " >}}
 
-## Get Started
+The publication of this paper also coincides with low-dose cannabidiol oil (CBD) being approved over-the-counter sale. 4zzz has asked if we were available for an [interview](https://www.4zzzfm.org.au/program/brisbane-line/2021-02-11%2012:00:00?fbclid=IwAR2nTOTTFRP54wyvRbhdj6doqP5aNJxAr6PCIcH-EZqHxTXFHCbFIx29S98).
+
+
+{{< figure src="https://raw.githubusercontent.com/clim072/cannabisvapingYT/main/Screen%20Shot%202021-03-27%20at%205.12.18%20pm.png" title=" " >}}
+
+
+## Other Media Coverage
 
 - 👉 [**Create a new site**](https://wowchemy.com/templates/)
 - 📚 [**Personalize your site**](https://wowchemy.com/docs/)
