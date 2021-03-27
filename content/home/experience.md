@@ -21,26 +21,13 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - #title: CEO
-    #company: Lim Inc.
-    #company_url: ''
-    #location: New Zealand
-    #date_start: '2021-03-01'
-    #date_end: ''
-    #description: |2-
-    #    Responsibilities include:
-        
-     #   * Loan contracts
-    #    * Modelling
-           
+experience:          
   - title: PhD Student
     company: University of Queensland
     company_url: 'https://ncysur.centre.uq.edu.au/'
     location: Australia
     date_start: '2020-01-01'
     date_end: ''
-    description: Researching cannabis vaping 
 
   - title: Biostatistician
     company: QBI, University of Queensland
@@ -48,21 +35,18 @@ experience:
     location: Australia
     date_start: '2016-01-01'
     date_end: '2020-12-24'
-    #description:  
-
+    
   - title: Research Statistician (Remote)
     company: HCP, Harvard Medical
     company_url: 'https://hcp.hms.harvard.edu/'
     location: USA
     date_start: '2012-01-01'
     date_end: '2020-12-24'
-    #description:  
 
   - title: Biostatistician  
     company: Psychological Medicine, Otago University
     company_url: 'https://www.otago.ac.nz/'
     location: New Zealand
     date_start: '2012-01-01'
-    date_end: '2015-11-30'
-    #description:  
+    date_end: '2015-11-30' 
 ---
