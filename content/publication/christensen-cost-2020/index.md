@@ -18,7 +18,6 @@ authors:
 - J.J. McGrath
 tags: 
 - '"Cost-of-illness"'
-- '"COI"'
 - '"Mental disorders"'
 - '"Systematic review"'
 categories: []

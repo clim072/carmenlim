@@ -25,7 +25,10 @@ authors:
 - M. ten Have
 - M. Xavier
 - K.M. Scott
-tags: []
+tags: 
+- '"Mental disorders"'
+- '"Comorbidity"'
+- '"Mental-physical comorbidity"'
 categories: []
 date: '2015-01-01'
 lastmod: 2021-03-27T12:28:16+10:00

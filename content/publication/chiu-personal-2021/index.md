@@ -13,7 +13,7 @@ authors:
 - C.C.W Lim
 - J. Leung
 tags:
-- '"Cannabis (marijuana)"'
+- '"Cannabis"'
 - '"attitudes"'
 - '"determinants"'
 - '"marijuana"'
