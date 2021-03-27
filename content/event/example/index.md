@@ -4,21 +4,23 @@ title: What can we learn about cannabis vaping from the Internet?
 event: M1 Confirmation
 event_url: ''
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: ZOOM
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
 
 summary:  What can we learn about cannabis vaping from the Internet?
-abstract: "Cannabis is the most commonly-used illicit substance around the world and its use is linked to many adverse health outcomes. The situation is changing rapidly, with more movements towards cannabis legalisation, an increase in the potency of cannabis, and a new method of administration -  vaping. In the U.S, cannabis vaping, especially in the adolescent population, has increased 2-3 fold in the past 2 years. Research is urgently needed to inform the existing harm reduction strategies in light of the recent legalisation of cannabis in Canberra, where opinions on cannabis legalization in other Australian states still remain divided. My research project will focus on cannabis vaping. Compared to other modes of administration, vaping is increasingly used to administer concentrates, which can be up to 30 times more potent than herbal cannabis. The implications of changes in cannabis delivery methods are understudied. The failure to identify trends quickly could result in unnecessary lives lost. Traditional methods, such as national drug surveys, do not provide timely data to identify drug trends because of significant time lag. Since vaping is an emerging phenomenon, little is known about how cannabis vaping is being portrayed on social media and how the content is being received by the public. The aim of the proposed research is to (1) systematically review the literature on the prevalence of cannabis vaping and to leverage publicly available data on the Internet to examine: (2) the latest trends in cannabis vaping using online cryptomarkets data; (3) portrayal, access and sentiments towards cannabis vaping using data from social media platforms. The knowledge generated can inform debate and future policies around cannabis use, complement findings from national surveys, and aid the current harm reduction strategies for cannabis. "
+abstract: "Cannabis is the most commonly-used illicit substance around the world. With more movements towards cannabis legalisation, we are witnessing an increase in the potency of cannabis, and a new method of administration -  vaping. In the U.S, cannabis vaping, especially in the adolescent population, has increased 2-3 fold in the past 2 years. Research is urgently needed to inform the existing harm reduction strategies in light of the recent legalisation of cannabis in Canberra, where opinions on cannabis legalization in other Australian states still remain divided. My research project will focus on cannabis vaping. Compared to other modes of administration, vaping is increasingly used to administer concentrates, which can be up to 30 times more potent than herbal cannabis. The implications of changes in cannabis delivery methods are understudied. Traditional methods, such as national drug surveys, do not provide timely data to identify drug trends because of significant time lag. Since vaping is an emerging phenomenon, little is known about how cannabis vaping is being portrayed on social media and how the content is being received by the public. 
+
+The aim of the proposed research is to (1) systematically review the literature on the prevalence of cannabis vaping and to leverage publicly available data on the Internet to examine: (2) the latest trends in cannabis vaping using online cryptomarkets data; (3) portrayal, access and sentiments towards cannabis vaping using data from social media platforms. The knowledge generated can inform debate and future policies around cannabis use, complement findings from national surveys, and aid the current harm reduction strategies for cannabis. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-01-20T14:00:00Z"
+date_end: "2020-01-20T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -38,7 +40,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/cwernlim
 url_code: ""
 url_pdf: ""
 url_slides: ""
