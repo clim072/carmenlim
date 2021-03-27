@@ -42,18 +42,19 @@ categories:
 - Cannabis vaping
 ---
 
-After 2 rounds of revision, the paper was finally published in [**Addiction**](https://onlinelibrary.wiley.com/doi/abs/10.1111/add.15424). UQ HABS has also written a media release for the article. 🦄✨ 
+After 2 rounds of revision, the paper was finally accepted and published in [**Addiction**](https://onlinelibrary.wiley.com/doi/abs/10.1111/add.15424). Happy days! I could not be more thankful to my advisory team and peers for all their support and help. 🦄✨ 
+
+Kristy from UQ HABS also helped to write a media release for this study. It really helped to amplify the story and increase the impact of my study.  Thanks Kristy!
 
 {{< figure src="https://raw.githubusercontent.com/clim072/cannabisvapingYT/main/Screen%20Shot%202021-03-27%20at%205.13.19%20pm.png" title=" " >}}
 
-Shortly after, Gary did an Interview with the news outlet. 
-{{< figure src="https://raw.githubusercontent.com/clim072/cannabisvapingYT/main/Screen%20Shot%202021-03-27%20at%205.48.41%20pm.png" title=" " >}}
-
-The publication of this paper also coincides with low-dose cannabidiol oil (CBD) being approved over-the-counter sale. 4zzz has asked if we were available for an [interview](https://www.4zzzfm.org.au/program/brisbane-line/2021-02-11%2012:00:00?fbclid=IwAR2nTOTTFRP54wyvRbhdj6doqP5aNJxAr6PCIcH-EZqHxTXFHCbFIx29S98).
-
-
+Gary, my primary supervisor did an interview with the news outlet. The study has garnered quite a bit of attention in the press.
 {{< figure src="https://raw.githubusercontent.com/clim072/cannabisvapingYT/main/Screen%20Shot%202021-03-27%20at%205.12.18%20pm.png" title=" " >}}
 
+The publication of this paper also coincides with low-dose cannabidiol oil (CBD) being approved over-the-counter sale. 4zzz has asked if we were available for an interview. I bravely took that as a challenge and did my 1st ever radio interview. Here is the access to the [interview](https://www.4zzzfm.org.au/program/brisbane-line/2021-02-11%2012:00:00?fbclid=IwAR2nTOTTFRP54wyvRbhdj6doqP5aNJxAr6PCIcH-EZqHxTXFHCbFIx29S98).
+
+
+{{< figure src="https://raw.githubusercontent.com/clim072/cannabisvapingYT/main/Screen%20Shot%202021-03-27%20at%205.48.41%20pm.png" title=" " >}}
 
 ## Other Media Coverage
 
