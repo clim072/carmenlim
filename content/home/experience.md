@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:          
   - title: PhD Student
-    company: University of Queensland
+    company: NCYSUR, University of Queensland
     company_url: 'https://ncysur.centre.uq.edu.au/'
     location: Australia
     date_start: '2020-01-01'
@@ -37,7 +37,7 @@ experience:
     date_end: '2020-12-24'
     
   - title: Research Statistician (Remote)
-    company: HCP, Harvard Medical
+    company: HCP, Harvard Medical School
     company_url: 'https://hcp.hms.harvard.edu/'
     location: USA
     date_start: '2012-01-01'
