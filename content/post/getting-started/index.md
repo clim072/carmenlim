@@ -1,6 +1,6 @@
 ---
 title: Adolescent can access cannabis vaping YouTube videos without much restriction   
-subtitle: It finally gets published..      
+subtitle:        
 
 # Summary for listings and search engines
 summary: Content analysis of cannabis vaping videos on YouTube
@@ -42,13 +42,17 @@ categories:
 - Cannabis vaping
 ---
 
-After 2 rounds of revision, the paper was finally accepted and published in [**Addiction**](https://onlinelibrary.wiley.com/doi/abs/10.1111/add.15424). Happy days! I could not be more thankful to my advisory team and peers for all their support and help. 🦄✨ 
+After 2 rounds of revisions, the paper was finally accepted and published in [**Addiction**](https://onlinelibrary.wiley.com/doi/abs/10.1111/add.15424). Happy days! Addiction's acceptance rate is ~10%. I could not be more thankful to my advisory team and peers for all their support and help. 🦄✨ 
 
-Kristy from UQ HABS also helped to write a media release for this study. It really helped to amplify the story and increase the impact of my study.  Thanks Kristy!
+I have created a video abstract to summarize my entire study. Watch it [here](https://www.youtube.com/watch?v=Mx2Ctvv9I-Y)
+
+<iframe width="400" height="600" src="https://www.youtube.com/embed/Mx2Ctvv9I-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Kristy from UQ HABS also helped to write a media release for this study which is a great way to increase the impact of my study. Thanks Kristy!
 
 {{< figure src="https://raw.githubusercontent.com/clim072/cannabisvapingYT/main/Screen%20Shot%202021-03-27%20at%205.13.19%20pm.png" title=" " >}}
 
-Gary, my primary supervisor did an interview with the news outlet. The study has garnered quite a bit of attention in the press.
+Shortly after the study was published, Gary - my primary supervisor did an interview with the news outlet. The study has garnered quite a bit of attention in the press.
 {{< figure src="https://raw.githubusercontent.com/clim072/cannabisvapingYT/main/Screen%20Shot%202021-03-27%20at%205.12.18%20pm.png" title=" " >}}
 
 The publication of this paper also coincides with low-dose cannabidiol oil (CBD) being approved over-the-counter sale. 4zzz has asked if we were available for an interview. I bravely took that as a challenge and did my 1st ever radio interview. Here is the access to the [interview](https://www.4zzzfm.org.au/program/brisbane-line/2021-02-11%2012:00:00?fbclid=IwAR2nTOTTFRP54wyvRbhdj6doqP5aNJxAr6PCIcH-EZqHxTXFHCbFIx29S98).
@@ -58,12 +62,9 @@ The publication of this paper also coincides with low-dose cannabidiol oil (CBD)
 
 ## Other Media Coverage
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
+- 👉 [**Courier Mail**](https://wowchemy.com/templates/)
 - 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+ 
 
 
 
