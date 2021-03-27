@@ -39,7 +39,9 @@ authors:
 - K.S. Kendler
 - R.C. Kessler
 - J.J. McGrath
-tags: []
+tags: 
+- '"Psychotic experiences"'
+- '"Substance use disorder"'
 categories: []
 date: '2018-05-01'
 lastmod: 2021-03-27T12:28:19+10:00

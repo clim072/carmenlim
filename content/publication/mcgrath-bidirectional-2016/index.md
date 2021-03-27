@@ -6,31 +6,33 @@ title: The Bidirectional Associations Between Psychotic Experiences and DSM-IV M
 subtitle: ''
 summary: ''
 authors:
-- John J. McGrath
-- Sukanta Saha
-- Ali Al-Hamzawi
-- Laura Andrade
-- Corina Benjet
-- Evelyn J. Bromet
-- Mark Oakley Browne
-- Jose M. Caldas de Almeida
-- Wai Tat Chiu
-- Koen Demyttenaere
-- John Fayyad
-- Silvia Florescu
-- Giovanni de Girolamo
-- Oye Gureje
-- Josep Maria Haro
-- Margreet ten Have
-- Chiyi Hu
-- Viviane Kovess-Masfety
-- Carmen C.W. Lim
-- Fernando Navarro-Mateu
-- Nancy Sampson
-- José Posada-Villa
-- Kenneth S. Kendler
-- Ronald C. Kessler
-tags: []
+- J.J. McGrath
+- S. Saha
+- A.O. Al-Hamzawi
+- L. Andrade
+- C. Benjet
+- E.J. Bromet
+- M. Oakley Browne
+- J.M. Caldas de Almeida
+- W.T. Chiu
+- K. Demyttenaere
+- J. Fayyad
+- S. Florescu
+- G. de Girolamo
+- O. Gureje
+- J.M. Haro
+- M. ten Have
+- C. Hu
+- V. Kovess-Masfety
+- C.C.W. Lim
+- F. Navarro-Mateu
+- N.A. Sampson
+- J. Posada-Villa
+- K.S. Kendler
+- R.C. Kessler
+tags: 
+- '"Psychotic experiences"'
+- '"Mental disorders"'
 categories: []
 date: '2016-10-01'
 lastmod: 2021-03-27T12:28:17+10:00

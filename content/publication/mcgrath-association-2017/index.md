@@ -6,11 +6,11 @@ title: 'The association between childhood adversities and subsequent first onset
 subtitle: ''
 summary: ''
 authors:
-- J. J. McGrath
-- K. A. McLaughlin
+- J.J. McGrath
+- K.A. McLaughlin
 - S. Saha
 - S. Aguilar-Gaxiola
-- A. Al-Hamzawi
+- A.O. Al-Hamzawi
 - J. Alonso
 - R. Bruffaerts
 - G. de Girolamo
@@ -18,25 +18,26 @@ authors:
 - O. Esan
 - S. Florescu
 - O. Gureje
-- J. M. Haro
+- J.M. Haro
 - C. Hu
-- E. G. Karam
+- E.G. Karam
 - V. Kovess-Masfety
 - S. Lee
-- J. P. Lepine
-- C. C. W. Lim
-- M. E. Medina-Mora
+- J.P. Lepine
+- C.C.W. Lim
+- M.E. Medina-Mora
 - Z. Mneimneh
-- B. E. Pennell
+- B.E. Pennell
 - M. Piazza
 - J. Posada-Villa
-- N. Sampson
-- M. C. Viana
+- N.A. Sampson
+- M.C. Viana
 - M. Xavier
-- E. J. Bromet
-- K. S. Kendler
-- R. C. Kessler
-tags: []
+- E.J. Bromet
+- K.S. Kendler
+- R.C. Kessler
+tags: 
+- '"Psychotic experiences"'
 categories: []
 date: '2017-05-01'
 lastmod: 2021-03-27T12:28:17+10:00

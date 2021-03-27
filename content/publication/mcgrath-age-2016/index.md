@@ -6,32 +6,33 @@ title: 'Age of Onset and Lifetime Projected Risk of Psychotic Experiences: Cross
 subtitle: ''
 summary: ''
 authors:
-- John J. McGrath
-- Sukanta Saha
-- Ali O. Al-Hamzawi
-- Jordi Alonso
-- Laura Andrade
-- Guilherme Borges
-- Evelyn J. Bromet
-- Mark Oakley Browne
-- Ronny Bruffaerts
-- Jose M. Caldas de Almeida
-- John Fayyad
-- Silvia Florescu
-- Giovanni de Girolamo
-- Oye Gureje
-- Chiyi Hu
-- Peter de Jonge
-- Viviane Kovess-Masfety
-- Jean Pierre Lepine
-- Carmen C. W. Lim
-- Fernando Navarro-Mateu
-- Maria Piazza
-- Nancy Sampson
-- José Posada-Villa
-- Kenneth S. Kendler
-- Ronald C. Kessler
-tags: []
+- J.J. McGrath
+- S. Saha
+- A.O. Al-Hamzawi
+- J. Alonso
+- L. Andrade
+- G. Borges
+- E.J. Bromet
+- M. Oakley-Browne
+- R. Bruffaerts
+- J.M. Caldas de Almeida
+- J. Fayyad
+- S. Florescu
+- G. de Girolamo
+- O. Gureje
+- C. Hu
+- P. de Jonge
+- V. Kovess-Masfety
+- J.P. Lepine
+- C.C.W. Lim
+- F. Navarro-Mateu
+- M. Piazza
+- N.A. Sampson
+- J. Posada-Villa
+- K.S. Kendler
+- R.C. Kessler
+tags: 
+- '"Psychotic experiences"'
 categories: []
 date: '2016-07-01'
 lastmod: 2021-03-27T12:28:17+10:00
