@@ -77,4 +77,4 @@ I am a Statistician and a PhD candidate at [UQ](https://ncysur.centre.uq.edu.au/
 
 I am currently the Vice President (Media & Communications) of the [Statistical Society of Australia](https://statsoc.org.au/).  In my spare time, I enjoy tweeting and video-editing.   
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
